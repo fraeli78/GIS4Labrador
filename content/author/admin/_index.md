@@ -49,20 +49,25 @@ user_groups = ["Researchers", "Visitors"]
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:filippo.raeli@gmail.com".
+# [[social]]
+#  icon = "envelope"
+#  icon_pack = "fas"
+#  link = "#contact"  # For a direct email link, use "mailto:filippo.raeli@gmail.com".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/polpo26"
 
+# [[social]]
+#  icon = "google-scholar"
+#  icon_pack = "ai"
+#  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+
 [[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/filippomariaraeli/"
 
 [[social]]
   icon = "github"
@@ -78,6 +83,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My passion is learning the advances of modern technology and how to piece together a solution to every problem that I would like to expose myself to and be able to resolve different issues in difficult situations. I have continued to pursue work that focuses on the use of computer platforms, in particular. I have specialized in the use of GIS & Web GIS software for the creation and management of Geographic Information Systems. I am diligent, I have many ideas and I have a lot of enthusiasm.

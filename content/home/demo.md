@@ -4,7 +4,7 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget = "blank"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -23,11 +23,11 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
-  
+
   # Background image.
   image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -36,11 +36,12 @@ subtitle = ""
   text_color_light = true
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = "padding-top: 20px; padding-bottom: 20px;"
- 
+
  # CSS class.
  css_class = ""
+
 +++
 
 Welcome to the **personal demo** of Academic. Other demos available include:

@@ -17,27 +17,73 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+title = "GIS Developer"
+company = "Upwork"
+company_url = "https://www.upwork.com/"
+location = "Everywhere"
+date_start = "2018-05-01"
+date_end = ""
+description = """
+Responsibilities include:
+
+* Python Script
+* GDAL batch
+* Graphic Design
+* Content Writer
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+title = "GIS Specialist"
+company = "Navionics"
+company_url = "https://www.navionics.com/"
+location = "Massarosa, LU, Italy"
+date_start = "2011-01-15"
+date_end = "2017-04-14"
+description = """
+Responsibilities include:
 
+* Chart checks in order to release them on the market
+* Development and Management of KPI reports
+* Management of Discrepancy Report sent by the customers
+  """  
+[[experience]]
+title = "GIS Analyst"
+company = "University of Florence"
+company_url = "https://www.clpctp.unifi.it/vp-177-presentation.html?newlang=eng"
+location = "Florence, Italy"
+date_start = "2008-04-01"
+date_end = "2009-03-31"
+description = """
+Responsibilities include:
+
+* Development of a database for monitoring the urban growth in Tuscany
+* Analysis of Aerial Photography
+* Graphic Design
+    """  
+[[experience]]
+title = "GIS Coordinator"
+company = "Pontedera Municipality"
+company_url = "https://www.comune.pontedera.pi.it/"
+location = "Pontedera, PI, Italy"
+date_start = "2005-04-01"
+date_end = "2009-02-28"
+description = """
+Responsibilities include:
+
+* Numbering of buildings and census houses
+* Implementation, updating and maintenance of the geodatabase
+* WebGIS interfaces applied to Urbanistic, Tourism and Civil Protection.
+    """  
+[[experience]]
+title = "Data Entry"
+company = "CHIAM Bari"
+company_url = "http://www.iamb.it/en"
+location = "Valenzano, BA, Italy"
+date_start = "2002-10-01"
+date_end = "2003-06-30"
+description = """
+Responsibilities include:
+
+* Implementation of a database for monitoring bio-agricultural companies in the Puglia region
+    """  
 +++

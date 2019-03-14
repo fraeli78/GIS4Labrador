@@ -18,33 +18,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "LinkedIn"
+  organization_url = "https://www.linkedin.com/"
+  title = "Creating a Map with Illustrator"
+  url = "http://www.linkedin.com/learning/creating-a-map-with-illustrator"
+  certificate_url = ""
+  date_start = "2019-01-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
+  organization = "Udemy"
   organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  title = "Maps with R Leaflet"
+  url = "https://www.udemy.com/maps-with-r-leaflet/"
+  certificate_url = "http://ude.my/UC-DAC6ITS1"
+  date_start = "2018-11-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  description = "Transform your data into interactive maps!"
+
 [[item]]
-  organization = "DataCamp"
+  organization = "Udemy"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  title = "Using Open Source Tools to Create an Enterprise GIS"
+  url = "https://www.udemy.com/enterprise-gis/"
+  certificate_url = "http://ude.my/UC-J4QCLIYI"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = "Create an enterprise GIS with Postgres SQL, QGIS, and PostGIS to manage users, and support multiple GIS software clients"
+
+  [[item]]
+    organization = "ESRI"
+    organization_url = "https://www.esri.com/"
+    title = "Do-It-Yourself Geo Apps - MOOC"
+    url = "https://www.esri.com/training/catalog/57660ed7bb54adb30c9454a3/do-it-yourself-geo-apps/"
+    certificate_url = "https://www.esri.com/training/TrainingRecord/Certificate/polpo26/5b1b7868ab221c1394a9645e/-120"
+    date_start = "2018-10-01"
+    date_end = ""
+    description = "create custom web applications that solve problems in your community, and build powerful native applications for iOS and Android devices without touching a piece of code."
 
 +++
