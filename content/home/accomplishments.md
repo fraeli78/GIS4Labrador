@@ -22,10 +22,10 @@ date_format = "Jan 2006"
   organization_url = "https://www.linkedin.com/"
   title = "Creating a Map with Illustrator"
   url = "http://www.linkedin.com/learning/creating-a-map-with-illustrator"
-  certificate_url = ""
+  certificate_url = "https://drive.google.com/open?id=19rYtBOSKX8BDmPeKR5zOalemQx5rPNr3"
   date_start = "2019-01-01"
   date_end = ""
-  description = ""
+  description = "Create a custom map"
 
 [[item]]
   organization = "Udemy"

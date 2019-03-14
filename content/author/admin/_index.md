@@ -83,4 +83,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-My passion is learning the advances of modern technology and how to piece together a solution to every problem that I would like to expose myself to and be able to resolve different issues in difficult situations. I have continued to pursue work that focuses on the use of computer platforms, in particular. I have specialized in the use of GIS & Web GIS software for the creation and management of Geographic Information Systems. I am diligent, I have many ideas and I have a lot of enthusiasm.
+I have worked with a lot of the modern technologies that are used in GIS, WebGIS, Database handling, and Python to name a few. In addition, I help manage several data, elaborating statistical reports. Furthermore, I had the pleasure of working for public and private companies, as well as a one-year contract in university research.  
