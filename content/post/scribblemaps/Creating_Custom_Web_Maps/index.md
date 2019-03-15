@@ -41,8 +41,6 @@ categories = []
   preview_only = true
 
   # Set captions for image gallery.
-
-
 +++
 
 Since Google Maps released the API in 2005 Web maps became popular after giving web developers an easy way to drop custom apps in their sites with a minimal amount of new code.
