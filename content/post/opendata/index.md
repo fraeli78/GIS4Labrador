@@ -31,9 +31,8 @@ summary = "The main portals where you can download geodata"
   preview_only = false
 
 +++
-**Academic** makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
+**Opendata** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
 
-Follow our easy [step by step guide](https://sourcethemes.com/academic/docs/install/) to learn how to build your own free website with Academic. [Check out the personal demo](https://academic-demo.netlify.com/) or the [business demo](https://sourcethemes.com/academic/) of what you'll get in less than 10 minutes.
 
 **Introduction**
 
