@@ -35,10 +35,13 @@ categories = []
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "BottomLeft"
 
   # Show image only in page previews?
   preview_only = true
+
+  # Set captions for image gallery.
+
 
 +++
 
@@ -70,6 +73,9 @@ Through Scribble Maps it is easy to build a new map. You can customize it to mat
 In the following we would like to give you some ideas on how a map can be beneficial for your website applications and for your studies and how you can make maps interact efficiently and effectively with the different things that are going on in and around it.
 
 Various topics such as heat maps, big data and geolocation can be easily managed by Scribble Maps.
+
+{{< gallery >}}
+
 
 **Scribble Maps**  can be summarized as it follows:
 
