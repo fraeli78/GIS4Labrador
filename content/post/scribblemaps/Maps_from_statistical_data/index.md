@@ -56,7 +56,7 @@ Additionally, we often find reports that show the temperature fluctuation, wind 
 Last week, we requested the annual average values gathered by the meteorological stations in the major cities of Tuscany.
 Here is the excel report that we received.
 
-![alternative text for search engines](annual_average.png)
+![Screenshot](annual_average.png)
 
 We immediately thought about how to report this data in an interactive map so that we can make correlation analyses between the averages and the topographical features of the territory.
 

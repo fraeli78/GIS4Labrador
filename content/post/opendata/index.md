@@ -95,6 +95,3 @@ summary = "The main portals where you can download geodata"
 - [Philadelphia](https://www.opendataphilly.org/)
 - [Boston](https://data.boston.gov/)
 - [Cambridge](https://www.cambridgema.gov/departments/opendata/)
-
-
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)

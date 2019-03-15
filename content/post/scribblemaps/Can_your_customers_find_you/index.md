@@ -59,11 +59,11 @@ How can we share it with other users?
 We can include the map on the home page by following simple steps:
 
 * Choose Widget/embed from the Menu Toolbar
-![alternative text for search engines](map1.png)
+![Screenshot](map1.png)
 * Choose the map size
-![alternative text for search engines](map2.png)
+![Screenshot](map2.png)
 * Click preview to show how the map will appear like
-![alternative text for search engines](map3.png)
+![Screenshot](map3.png)
 
 
 Scribble Maps can also be used to create simple and easy maps with directions to any business or even your next event.  Give directions to your favorite farmhouse. Or try it out for your wedding party.

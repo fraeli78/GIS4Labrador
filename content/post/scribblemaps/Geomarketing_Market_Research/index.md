@@ -54,7 +54,7 @@ Scribble Maps simplifies it! Let us demontrate!
 
 If you input a location such as Florence, to the search box, a new window will appear to help you to select the most popular categories from a list - such as Airport, Parking, Museum, Pharmacy, etc. You can also select the Range from 100 m to 50 km. This is an awesome functionality that is really useful in different contexts and analyses.
 
-![alternative text for search engines](map1.png)
+![Screenshot](map1.png)
 
 If you are going to travel to some cities around the world you probably would like to know where the most important services are located. For example:
 
