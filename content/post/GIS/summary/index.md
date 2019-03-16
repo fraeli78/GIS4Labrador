@@ -43,6 +43,7 @@ categories = []
 
 **GIS** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
 
+**MOOC da inserire!!!**
 
 **Introduction**
 
