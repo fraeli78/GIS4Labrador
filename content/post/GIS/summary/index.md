@@ -54,7 +54,7 @@ categories = []
 - [Open Access book](http://oapen.org/search?keyword=map)
 
 **Tutorials**
-
+- [My data visualizations] (https://medium.com/@a.mariel.padilla/my-data-visualizations-3e9a509bb1e4)
 
 **Countries**
 
