@@ -54,7 +54,14 @@ categories = []
 - [Open Access book](http://oapen.org/search?keyword=map)
 
 **Tutorials**
-- [My data visualizations] (https://medium.com/@a.mariel.padilla/my-data-visualizations-3e9a509bb1e4)
+
+- Convert City map into hexagonal grid:
+  - [H3 Core](https://uber.github.io/h3/#/documentation/overview/introduction)
+  - [R](http://strimas.com/spatial/hexagonal-grids/)
+  - [PostGIS](https://medium.com/@goldrydigital/hex-grid-algorithm-for-postgis-4ac45f61d093)
+  - [GDAL](https://gis.stackexchange.com/questions/293780/create-hexbin-honeycomb-grid-using-command-line-or-python)
+  - [spatialite](https://www.gaia-gis.it/fossil/libspatialite/wiki?name=tesselations-4.0)
+- [My data visualizations](https://medium.com/@a.mariel.padilla/my-data-visualizations-3e9a509bb1e4)
 
 **Countries**
 
