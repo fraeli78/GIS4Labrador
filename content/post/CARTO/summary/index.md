@@ -22,13 +22,13 @@ categories = []
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 # projects = ["internal-project"]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""
@@ -36,4 +36,22 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+
+  # Show image only in page previews?
+  preview_only = false
 +++
+
+**Blog** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+
+
+
+**Introduction**
+
+- [Mobile Data 101: 15 Questions to Answer Using Mobile Data](https://carto.com/blog/mobile-data-101-questions/?utm_content=83345661&utm_medium=social&utm_source=linkedin&hss_channel=lcp-5084329)
+- [Set up an account on CARTO](https://carto.com/signup/)
+- [CARTO’s SQL API](https://carto.com/developers/sql-api/)
+- [Editing East Coast Greenway Route in QGIS](https://docs.google.com/document/d/1ig_wQ2mt7yFZ4fpXGz6P-bIXAXwWukRbnrybBbEQCk4/edit)
+- [CartoDB plugin for QGIS](https://github.com/gkudos/qgis-cartodb/wiki)
+- [CartoDB plugin for QGIS](https://github.com/gkudos/qgis-cartodb)
+- [Mapping and Planning the East Coast Greenway](https://blog.greeninfo.org/mapping-and-planning-the-east-coast-greenway-f8d9a5f456fe)
+- [Mobile Data 101: Challenges and Best Practices](https://carto.com/blog/mobile-data-101/)
