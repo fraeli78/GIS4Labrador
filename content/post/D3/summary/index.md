@@ -22,13 +22,13 @@ categories = []
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 # projects = ["internal-project"]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""
@@ -36,4 +36,24 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+
+  # Show image only in page previews?
+  preview_only = false
 +++
+
+**D3** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+
+**Introduction**
+
+- [A Primer in D3js for the Curious](http://duspviz.mit.edu/tutorials/d3-101/)
+- [D3 gallery](https://github.com/d3/d3/wiki/Gallery)
+- [D3 Workshop](http://duspviz.mit.edu/d3-workshop/)
+- [Introduction to D3 - Make a Chart](http://duspviz.mit.edu/d3-workshop/intro-to-d3/)
+- [Scatterplots and Borrowing Code](http://duspviz.mit.edu/d3-workshop/scatterplots-and-more/)
+- [Interaction and Animation: D3 Transitions, Behaviors, and Brushing](http://duspviz.mit.edu/d3-workshop/transitions-animation/)
+- [Mapping Data with D3](http://duspviz.mit.edu/d3-workshop/mapping-data-with-d3/)
+- [Tutorial](http://maptimeboston.github.io/d3-maptime/#/)
+- [The America’s Cup Finale: Oracle’s Path to Victory](https://archive.nytimes.com/www.nytimes.com/interactive/2013/09/25/sports/americas-cup-course.html)
+- [Fast, static D3 maps built with Turf.js and the command-line](https://towardsdatascience.com/fast-static-d3-maps-built-with-turf-js-and-the-command-line-5b7c72b7e775)
+- [Rotate the World](https://www.jasondavies.com/maps/rotate/)
+- [Why I no longer use D3.js](https://medium.com/@PepsRyuu/why-i-no-longer-use-d3-js-b8288f306c9a)
