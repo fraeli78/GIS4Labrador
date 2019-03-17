@@ -1,5 +1,5 @@
 +++
-title = "Summary"
+title = "API"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
@@ -22,13 +22,13 @@ categories = []
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 # projects = ["internal-project"]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""
@@ -36,4 +36,19 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+
+  # Show image only in page previews?
+  preview_only = false
 +++
+
+**API** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+
+
+
+**Introduction**
+
+- [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+- [Free and Open Source Public Web CDN for web developer!](https://cdnjs.com/)
+- [Navermaps](https://navermaps.github.io/maps.js/docs/naver.maps.MapSystemProjection.html#getDistance)
+- [Converting OpenAPI specs to Postman collections](https://blog.getpostman.com/2019/01/05/converting-openapi-specs-to-postman-collections/)
+- [10+ Best jQuery Geolocation Plugins & Tutorials with Demo](https://medium.com/@krissanawat/10-best-jquery-geolocation-plugins-tutorials-with-demo-50391769cdd9)
