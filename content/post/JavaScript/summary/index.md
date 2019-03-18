@@ -39,7 +39,7 @@ categories = []
 
   # Show image only in page previews?
   preview_only = false
-  +++
++++
 
   **JavaScript** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
 

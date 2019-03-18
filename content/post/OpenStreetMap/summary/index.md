@@ -36,4 +36,21 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+
+  # Show image only in page previews?
+  preview_only = false
+
 +++
+
+**OpenStreetMap** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+
+
+**Introduction**
+
+- [Learn OSM](https://learnosm.org/it/osm-data/file-formats/)
+- [Download OpenStreetMap data for this region:](https://download.geofabrik.de/europe/great-britain.html)
+- [You can help. Map any place in the world even if you've never been there.](https://mapgive.state.gov/index.html)
+- [Why would you use OpenStreetMap if there is Google Maps?](https://geoawesomeness.com/why-would-you-use-openstreetmap-if-there-is-google-maps/)
+- [Overpass API](https://overpass-turbo.eu/)
+- [Manual custom geocoding using OSM database](https://gist.github.com/jpetazzo/5177554)
+- [Near real-time OpenStreetMap editing.](https://osmlab.github.io/show-me-the-way/)

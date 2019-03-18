@@ -66,6 +66,7 @@ categories = []
 
 **Countries**
 
+- [People think that data is in the cloud, but it’s not. It’s in the ocean.](https://www.nytimes.com/interactive/2019/03/10/technology/internet-cables-oceans.html)
 - [GIS Geography](https://gisgeography.com/)
 - [Directions Magazine](https://www.directionsmag.com/topic/9)
 - [Tutorials - Randal Hale](https://www.northrivergeographic.com/tutorials)
