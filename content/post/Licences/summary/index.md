@@ -1,6 +1,6 @@
 +++
-title = "Summary"
-subtitle = ""
+title = "Licence"
+subtitle = "Site collections"
 
 # Add a summary to display on homepage (optional).
 summary = ""
@@ -22,13 +22,13 @@ categories = []
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 # projects = ["internal-project"]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""
@@ -36,4 +36,16 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+
+  # Show image only in page previews?
+  preview_only = false
 +++
+
+**Licence** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+
+
+**Introduction**
+
+- [Conformant Licenses](https://opendefinition.org/licenses/)
+- [Understanding Free Cultural Works](https://creativecommons.org/share-your-work/public-domain/freeworks)
+- [Licensing types](https://creativecommons.org/share-your-work/licensing-types-examples)
