@@ -1,6 +1,6 @@
 +++
-title = "Summary"
-subtitle = ""
+title = "Leaflet"
+subtitle = "Site collections"
 
 # Add a summary to display on homepage (optional).
 summary = ""

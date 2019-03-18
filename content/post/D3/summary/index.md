@@ -1,5 +1,5 @@
 +++
-title = "Summary"
+title = "D3"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
@@ -9,7 +9,7 @@ date = 2019-03-15T20:21:14+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = [Site collections]
 
 # Is this a featured post? (true/false)
 featured = false

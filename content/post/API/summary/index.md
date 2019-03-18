@@ -1,6 +1,6 @@
 +++
 title = "API"
-subtitle = ""
+subtitle = "Site collections"
 
 # Add a summary to display on homepage (optional).
 summary = ""
@@ -16,7 +16,7 @@ featured = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["API"]
 categories = []
 
 # Projects (optional).

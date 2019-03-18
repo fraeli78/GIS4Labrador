@@ -1,6 +1,6 @@
 +++
 title = "Fonts"
-subtitle = ""
+subtitle = "Site collections"
 
 # Add a summary to display on homepage (optional).
 summary = ""

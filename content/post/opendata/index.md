@@ -1,6 +1,6 @@
 +++
 title = "Opendata"
-subtitle = "Create a beautifully simple website in under 10 minutes rocket:"
+subtitle = "Site collections"
 date = 2019-03-15T10:19:54+01:00
 draft = false
 

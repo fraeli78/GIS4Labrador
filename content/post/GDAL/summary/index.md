@@ -1,6 +1,6 @@
 +++
 title = "GDAL"
-subtitle = ""
+subtitle = "Site collections"
 
 # Add a summary to display on homepage (optional).
 summary = ""

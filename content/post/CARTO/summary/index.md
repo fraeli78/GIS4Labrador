@@ -1,6 +1,6 @@
 +++
-title = "Summary"
-subtitle = ""
+title = "Carto"
+subtitle = "Site collections"
 
 # Add a summary to display on homepage (optional).
 summary = ""
@@ -41,7 +41,7 @@ categories = []
   preview_only = false
 +++
 
-**Blog** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+**Carto** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
 
 
 
