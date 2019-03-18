@@ -36,4 +36,38 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+
+  # Show image only in page previews?
+  preview_only = false
 +++
+
+**Scraping** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+
+
+**Introduction**
+
+- [How to scrape businesses’ info with Python and Beautiful Soup](https://medium.com/employbl/scrape-the-web-for-amsterdam-coffeeshops-with-python-and-beautiful-soup-19ed25394234)
+- [Espressioni regolari un regex classico](https://pigrecoinfinito.wordpress.com/2019/02/06/espressioni-regolari-un-regex-classico/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
