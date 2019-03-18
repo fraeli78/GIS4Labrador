@@ -1,5 +1,5 @@
 +++
-title = "Summary"
+title = "Git&GitHub"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
@@ -22,13 +22,13 @@ categories = []
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 # projects = ["internal-project"]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""
@@ -36,4 +36,28 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
-+++
+
+  # Show image only in page previews?
+  preview_only = false
+  +++
+
+  **Git&GitHub** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+
+  **Introduction**
+
+
+  - [Nathaniel V. KELSO](https://github.com/nvkelso)
+  - [Mappiamo](https://github.com/mappiamo)
+  - [Vega Edition](https://gramener.github.io/visual-vocabulary-vega/)
+  - [Vega Edition](https://vega.github.io/vega/)
+  - [What is GitHub Pages?](https://pages.github.com/)
+  - [Learn Enough Git to be Useful](https://towardsdatascience.com/learn-enough-git-to-be-useful-281561eef959)
+  - [10 Git Commands You Should Know](https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c)
+  - [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+  - [T'ansignari e t'appeddiri!](https://github.com/opendatasicilia/tansignari)
+  - [Learning to code in 2019 — the first 3 months](https://medium.freecodecamp.org/learning-to-code-in-2019-the-first-3-months-b3c843204bb7)
+  - [Your unofficial guide to dotfiles on GitHub.](https://dotfiles.github.io/)
+  - [Tackling some Git challenges with the Git-it app](https://github.com/jlord/git-it-electron)
+  - [Connecting to GitHub with SSH](https://help.github.com/en/articles/connecting-to-github-with-ssh)
+  - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  - [raster2data](https://github.com/thejholloway/raster2data)
