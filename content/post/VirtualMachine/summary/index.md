@@ -36,4 +36,16 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+
+  # Show image only in page previews?
+  preview_only = false
 +++
+
+**Virtual Machine** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+
+
+**Introduction**
+
+- [XAMPP](https://www.apachefriends.org/index.html)
+- [WAMPSERVER](http://www.wampserver.com/en/)
+- [MAMP](https://www.mamp.info/en/)
