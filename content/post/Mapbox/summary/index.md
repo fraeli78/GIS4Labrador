@@ -36,4 +36,24 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+
+
+  # Show image only in page previews?
+  preview_only = false
 +++
+
+  **Mapbox** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+
+
+  **Introduction**
+
+- [Mapbox](https://docs.mapbox.com/mapbox-gl-js/example/popup-on-hover/)
+- [How To Start](https://docs.mapbox.com/mapbox-gl-js/api/)
+- [Doh! Making a Simpsons-inspired map with expressions](https://blog.mapbox.com/doh-making-a-simspons-inspired-map-with-expressions-86e633b61ede)
+- [Exploring the edges of consumer-facing apps](https://blog.mapbox.com/exploring-the-edges-of-consumer-facing-apps-3a704134c22e)
+- [Mapbox helps power Snap Map](https://blog.mapbox.com/mapbox-helps-power-snap-map-4ced4fb3176a)
+- [Build beautiful experiences and drive engagement](https://www.mapbox.com/industries/consumer/?utm_source=postlocate18-c&utm_medium=blog&utm_content=consumer-vertical&utm_campaign=consumer)
+- [Traveling like a local: How Cool Cousin uses maps to personalize travel](https://blog.mapbox.com/traveling-like-a-local-how-cool-cousin-uses-maps-to-personalize-travel-2a8603fbbeb2)
+- [Locate Mapbox](https://locate.mapbox.com/)
+- [UNICEF’s Magic Box Using Open Source by Red Hat and Uber and Big Data by Facebook to Map for Emergencies](https://medium.com/@mikefabrikant/unicefs-magic-box-using-open-source-by-uber-red-hat-and-big-data-by-facebook-c030ad517754)
+- [map viewer](https://twitter.com/brnkhy/status/1102277602528641024/video/1)
