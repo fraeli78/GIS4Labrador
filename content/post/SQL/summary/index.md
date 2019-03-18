@@ -1,6 +1,6 @@
 +++
-title = "Summary"
-subtitle = ""
+title = "SQL"
+subtitle = "Site collections"
 
 # Add a summary to display on homepage (optional).
 summary = ""
@@ -22,13 +22,13 @@ categories = []
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 # projects = ["internal-project"]
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = ""
@@ -36,4 +36,19 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+
+  # Show image only in page previews?
+  preview_only = false
 +++
+
+**SQL** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+
+
+**Introduction**
+
+- [Modern SQL Mission](https://blog.jooq.org/2015/10/20/jooq-tuesdays-markus-winand-is-on-a-modern-sql-mission/)
+- [LiteCLI è un client a riga di comando per hashtag#SQLite con autocompletamento (anche fuzzy) e syntax highlighting](https://www.linkedin.com/feed/update/urn:li:activity:6487981964744749056)
+- [W3Schools - SQL Tutorial](https://www.w3schools.com/sql/)
+- [SQL API v2](https://carto.com/developers/sql-api/)
+- [The SQL UPDATE Statement]https://www.w3schools.com/sql/sql_update.asp()
+- [Welcome Non-key Columns in B-Tree Indexes](https://modern-sql.com/slides/PostgreSQL-BTree-INCLUDE-20190312.pdf)
