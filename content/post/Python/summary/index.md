@@ -36,4 +36,57 @@ categories = []
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+
+  # Show image only in page previews?
+  preview_only = false
 +++
+
+**Python** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+
+
+**Introduction**
+
+- [Automating GIS processes course!](https://automating-gis-processes.github.io/2016/)
+- [Automating GIS processes](https://github.com/Automating-GIS-processes)
+- [Geo libraries in Python (Plotting current fires)](https://blog.goodaudience.com/geo-libraries-in-python-plotting-current-fires-bffef9fe3fb7)
+- [Satellite Imagery Analysis with Python](https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32?_referrer=twitter)
+- [PyQGIS 101: Introduction to QGIS Python programming for non-programmers](https://anitagraser.com/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/)
+- [Pyimagesearch](https://www.pyimagesearch.com/)
+- [Advanced Jupyter Notebooks: A Tutorial](https://towardsdatascience.com/advanced-jupyter-notebooks-a-tutorial-3569d8153057)
+- [Really Simple HTTP Server with Python](https://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python)
+- [Python for Geospatial work flows, part 3: Virtual Environments](https://www.linkedin.com/pulse/python-geospatial-work-flows-part-3-virtual-andrew-cutts/)
+- [From CSV to GeoDataFrame in two lines](https://anitagraser.com/2019/01/23/from-csv-to-geodataframe-in-two-lines/amp/)
+- [Dataset creation and cleaning: Web Scraping using Python — Part 1](https://towardsdatascience.com/dataset-creation-and-cleaning-web-scraping-using-python-part-1-33afbf360b6b)
+- [Intro to Python and Pandas](http://duspviz.mit.edu/tutorials/python_pandas/)
+- [Intro to Python and Web Scraping](http://duspviz.mit.edu/tutorials/python-scraping/)
+- [Movement data in GIS #20: Trajectools v1 released!](https://anitagraser.com/2019/02/02/movement-data-in-gis-20-trajectools-v1-released/amp/)
+- [Extending PostGIS with Python](https://2017.foss4g.org/post_conference/Extending-PostGIS-with-Python.pdf)
+- [Python + BeautifulSoup + QGIS](https://bondah.github.io/python-bs4-qgis/#0)
+- [10 Lessons Learned from Scraping Websites](http://jenslaufer.com/data%20retrieval/10_lessons_learned_from_scraping_websites.html)
+- [How to scrape websites with Python and BeautifulSoup](https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe)
+
+- [Data Science Skills: Web scraping javascript using python](https://towardsdatascience.com/data-science-skills-web-scraping-javascript-using-python-97a29738353f)
+- [python batch geocoding.py](https://gist.github.com/shanealynn/033c8a3cacdba8ce03cbe116225ced31)
+- [Geocoding](https://automating-gis-processes.github.io/CSC18/lessons/L3/geocoding.html)
+- [Here Geocoding and Search](https://developer.here.com/products/geocoding-and-search)
+- [geocoding-con-gdrive-spreadsheet](https://pigrecoinfinito.wordpress.com/2019/01/10/geocoding-con-google-drive-spreadsheet/)
+- [Learn Web Scraping using Python in under 5 minutes](https://medium.com/@kaustumbhjaiswal7/learn-web-scraping-using-python-in-under-5-minutes-36a7d4d6e1e7)
+- [Web Scraping Tutorial with Python: Tips and Tricks](https://hackernoon.com/web-scraping-tutorial-with-python-tips-and-tricks-db070e70e071)
+- [Mastering Python Web Scraping: Get Your Data Back](https://hackernoon.com/mastering-python-web-scraping-get-your-data-back-e9a5cc653d88)
+- [How to use Elasticsearch, Logstash and Kibana to visualise logs in Python in realtime](https://medium.freecodecamp.org/how-to-use-elasticsearch-logstash-and-kibana-to-visualise-logs-in-python-in-realtime-acaab281c9de)
+
+- [Better web scraping in Python with Selenium, Beautiful Soup, and pandas](https://medium.freecodecamp.org/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251)
+- [Classifying Tweets for Sentiment Analysis: Natural Language Processing in Python for Beginners](https://medium.com/vickdata/detecting-hate-speech-in-tweets-natural-language-processing-in-python-for-beginners-4e591952223?_referrer=twitter)
+- [Scraping, extracting and mapping geodata from Twitter](http://www.mikaelbrunila.fi/2017/03/27/scraping-extracting-mapping-geodata-twitter/)
+- [Geocoding con QGIS e script Python](https://www.cityplanner.it/geocoding-con-qgis-e-script-python/)
+- [Batch Geocoding with Python](https://janakiev.com/blog/geocoding-in-python/)
+- [Python Geocoding Tutorial](https://opencagedata.com/tutorials/geocode-in-python)
+- [Batch CSV Geocoding in Python with Google Maps API](https://www.shanelynn.ie/batch-geocoding-in-python-with-google-geocoding-api/)
+- [Julia for Geospatial part 2 - speed test](http://www.acgeospatial.co.uk/julia-prt2/)
+- [Web Scraping Geoid Indonesia Data With Python](https://medium.com/@gunawan.wisnu/web-scrapping-geoid-indonesia-with-python-d663b4343adb)
+
+- [What exactly can you do with Python? Here are Python’s 3 main applications.](https://medium.freecodecamp.org/what-can-you-do-with-python-the-3-main-applications-518db9a68a78)
+- [How to Generate a Word Cloud of Any Shape in Python](https://blog.goodaudience.com/how-to-generate-a-word-cloud-of-any-shape-in-python-7bce27a55f6e)
+- [How to Web Scrape with Python in 4 Minutes](https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460)
+- [Learn Enough Python to be Useful: argparse](https://towardsdatascience.com/learn-enough-python-to-be-useful-argparse-e482e1764e05)
+- [Snapcraft - Snaps are universal Linux packages (una figata che voglio provare con una mia utility)](https://snapcraft.io/first-snap)
