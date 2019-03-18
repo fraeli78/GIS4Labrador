@@ -31,7 +31,7 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Image credit: [**quotidianopiemontese**](http://web.quotidianopiemontese.it/dallaredazione/2015/10/30/i-blog-di-qp-si-rinnovano/)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

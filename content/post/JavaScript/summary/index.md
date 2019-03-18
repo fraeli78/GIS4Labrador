@@ -31,7 +31,7 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Image credit: [**wikimedia**](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

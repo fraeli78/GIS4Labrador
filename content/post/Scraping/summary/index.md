@@ -31,7 +31,7 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Image credit: [**QGIS**](https://www.mytechlogy.com/IT-blogs/21401/the-significance-of-web-scraping-to-big-data/#.XI_CTRNKiql)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

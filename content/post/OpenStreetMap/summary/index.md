@@ -31,7 +31,9 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Image credit: [**OpenStreetMap**](https://it.wikipedia.org/wiki/OpenStreetMap#/media/File:Openstreetmap_logo.svg)"
+
+
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

@@ -1,6 +1,6 @@
 +++
 title = "FOSS4G"
-subtitle = "Site collections"
+subtitle = "Free and Open Source Software for Geospatial"
 
 # Add a summary to display on homepage (optional).
 summary = "Site collections"

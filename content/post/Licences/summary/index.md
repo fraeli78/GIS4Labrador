@@ -31,7 +31,7 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Image credit: [**opendefinition**](https://opendefinition.org/licenses/)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -39,7 +39,7 @@ categories = []
 
   # Show image only in page previews?
   preview_only = false
-  
+
 +++
 
 **Licence** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
