@@ -50,5 +50,5 @@ categories = []
 - [LiteCLI è un client a riga di comando per hashtag#SQLite con autocompletamento (anche fuzzy) e syntax highlighting](https://www.linkedin.com/feed/update/urn:li:activity:6487981964744749056)
 - [W3Schools - SQL Tutorial](https://www.w3schools.com/sql/)
 - [SQL API v2](https://carto.com/developers/sql-api/)
-- [The SQL UPDATE Statement]https://www.w3schools.com/sql/sql_update.asp()
+- [The SQL UPDATE Statement](https://www.w3schools.com/sql/sql_update.asp)
 - [Welcome Non-key Columns in B-Tree Indexes](https://modern-sql.com/slides/PostgreSQL-BTree-INCLUDE-20190312.pdf)
