@@ -37,8 +37,8 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 
-    # Show image only in page previews?
-    preview_only = false
+  # Show image only in page previews?
+  preview_only = false
   +++
 
   **Text Editor** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
