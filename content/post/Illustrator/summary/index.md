@@ -3,7 +3,7 @@ title = "Illustrator"
 subtitle = "Site collections"
 
 # Add a summary to display on homepage (optional).
-summary = ""
+summary = "Site collections"
 
 date = 2019-03-15T20:18:42+01:00
 draft = false

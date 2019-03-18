@@ -3,7 +3,7 @@ title = "Job"
 subtitle = "Site collections"
 
 # Add a summary to display on homepage (optional).
-summary = ""
+summary = "Site collections"
 
 date = 2019-03-18T12:40:47+01:00
 draft = false

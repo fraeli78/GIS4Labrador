@@ -1,9 +1,9 @@
 +++
 title = "Geocode"
-subtitle = "Site collections"
+subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = ""
+summary = "Site collections"
 
 date = 2019-03-15T20:22:25+01:00
 draft = false
@@ -41,9 +41,9 @@ categories = []
   preview_only = false
 +++
 
-  **Geocode** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+**Geocode** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
 
-  **Introduction**
+**Introduction**
 
 - [QGIS - How to Geocode Addresses Using QGIS](https://www.gislounge.com/how-to-geocode-addresses-using-qgis/)
 - [How to quickly add latitude and longitude coordinates to a spreadsheet using Google Sheets](https://www.gislounge.com/populate-cell-zip-code-based-address-google-sheets/)
