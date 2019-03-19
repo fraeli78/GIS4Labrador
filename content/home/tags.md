@@ -7,5 +7,5 @@ title = "Popular Topics"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 120
+weight = 52
 +++
