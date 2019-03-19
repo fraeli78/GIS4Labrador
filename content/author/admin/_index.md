@@ -25,7 +25,9 @@ email = "filippo.raeli@gmail.com"
 interests = [
   "GIS",
   "WebGIS",
-  "IT"
+  "Database",
+  "IT",
+  "Design"
 ]
 
 # Organizational groups that you belong to (for People widget)
