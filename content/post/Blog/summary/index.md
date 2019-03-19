@@ -35,10 +35,10 @@ categories = []
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Top"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only = true
 +++
 
 **Blog** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.

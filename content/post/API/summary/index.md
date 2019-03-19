@@ -11,6 +11,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
+
 # Is this a featured post? (true/false)
 featured = false
 
@@ -29,6 +30,7 @@ categories = []
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
+
 [image]
   # Caption (optional)
   caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
@@ -38,7 +40,7 @@ categories = []
   focal_point = ""
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
 +++
 
 **API** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
@@ -51,4 +53,5 @@ categories = []
 - [Free and Open Source Public Web CDN for web developer!](https://cdnjs.com/)
 - [Navermaps](https://navermaps.github.io/maps.js/docs/naver.maps.MapSystemProjection.html#getDistance)
 - [Converting OpenAPI specs to Postman collections](https://blog.getpostman.com/2019/01/05/converting-openapi-specs-to-postman-collections/)
+- [10+ Best jQuery Geolocation Plugins & Tutorials with Demo](https://medium.com/@krissanawat/10-best-jquery-geolocation-plugins-tutorials-with-demo-50391769cdd9)
 - [10+ Best jQuery Geolocation Plugins & Tutorials with Demo](https://medium.com/@krissanawat/10-best-jquery-geolocation-plugins-tutorials-with-demo-50391769cdd9)
