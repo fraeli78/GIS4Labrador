@@ -48,6 +48,9 @@ categories = []
 
 **Introduction**
 
+- [Cartographic design principles](https://www.ordnancesurvey.co.uk/resources/carto-design/carto-design-principles.html)
+- [Generative Street Addresses from Satellite Imagery](https://www.mdpi.com/2220-9964/7/3/84/htm)
+- [LandGISmaps](https://github.com/Envirometrix/LandGISmaps)
 - [Geospatial Analysis - A comprehensive guide - 2018](http://www.spatialanalysisonline.com/index.html)
 - [Why GIS in Education Matters](https://www.geospatialworld.net/blogs/why-gis-in-education-matters/amp/)
 - [GeoHack - Geographical centre of all land surfaces on Earth](https://tools.wmflabs.org/geohack/geohack.php?params=___N____E)
@@ -97,7 +100,7 @@ categories = []
 - [Urban CartographyUrban Cartography](https://www.spur.org/publications/urbanist-article/2014-11-11/urban-cartography)
 - [GIS in Higher Education](https://www.xyht.com/spatial-itgis/gis-in-higher-education/)
 
-
+- [Visualizing large scale terrain with open source tools](https://medium.com/@morishuz/visualising-large-scale-terrain-with-open-source-tools-25723a5a5461)
 - [Renewable energy simulations, ninja style](https://www.renewables.ninja/)
 - [The Applications and Benefits of Synthetic Aperture Radar (SAR)](https://www.harrisgeospatial.com/Company/Events/Webinar/Webinar-Detail/ArtMID/10251/ArticleID/23554/The-Applications-and-Benefits-of-Synthetic-Aperture-Radar-SAR?utm_source=geomedia&utm_medium=email&utm_campaign=SAR%201&idU=2)
 - [GIS in Education: Why and How](https://sway.office.com/14UsAgAjnng0ZQgt)
@@ -112,3 +115,7 @@ categories = []
 - [Mapshaper](https://mapshaper.org/)
 - [Convert CSV/Excel To JSON,XML,HTML,SQL,Flat File,KML,...](http://www.convertcsv.com/)
 - [GDAL Coordinate System Barn Raising](https://gdalbarn.com/)
+
+**Distance Learning**
+
+- [UniGIS](https://unigis.net/)

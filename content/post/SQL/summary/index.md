@@ -52,3 +52,4 @@ categories = []
 - [SQL API v2](https://carto.com/developers/sql-api/)
 - [The SQL UPDATE Statement](https://www.w3schools.com/sql/sql_update.asp)
 - [Welcome Non-key Columns in B-Tree Indexes](https://modern-sql.com/slides/PostgreSQL-BTree-INCLUDE-20190312.pdf)
+- [SQL/JSON Path Expressions](https://www.postgresql.org/docs/devel/functions-json.html#FUNCTIONS-SQLJSON-PATH)

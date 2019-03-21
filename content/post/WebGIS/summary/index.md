@@ -46,6 +46,7 @@ categories = []
 
 **Introduction**
 
+- [uMap](http://umap.openstreetmap.fr/it/)
 - [Graduate Certificate in Geospatial Programming and Web Map Development](https://gis.e-education.psu.edu/geowebdev)
 - [Maps and the Geospatial Revolution](https://www.e-education.psu.edu/maps/)
 - [Open Education Resources](https://open.ems.psu.edu/oer-search?f[]=search_api_aggregation_1:web%20services&search_api_views_fulltext=gis)
