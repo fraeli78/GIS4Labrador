@@ -43,10 +43,18 @@ categories = []
 
 **WebGIS** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
 
+https://docs.google.com/spreadsheets/d/1cQcuJY7KK0BLfu7DBWSUdgPd-rXOmouX18UL1Z7sQqY/edit#gid=239928523/gviz/tq?tq=select%A
 
 **Introduction**
 
 - [uMap](http://umap.openstreetmap.fr/it/)
+- [uMap Luca](https://sites.google.com/view/lucascalzullo/tutorial/umap)
+- [MAPWARPER](http://mapwarper.net/)
+- [Tutorial per creare mappe online su UMAP aggiornabili con file CSV da GOOGLEDRIVE](https://cirospat.readthedocs.io/it/latest/tutorial-googledrive-to-umap.html)
+- [Query Language](https://developers.google.com/chart/interactive/docs/querylanguage)
+- [Kepler](https://kepler.gl/)
+- [Teaching Digital Mapping with kepler.gl](http://drstephenrobertson.com/blog-post/teaching-digital-mapping-with-kepler-gl/)
+- [kepler.gl - Tutorial](https://medium.com/search?q=kepler.gl)
 - [Graduate Certificate in Geospatial Programming and Web Map Development](https://gis.e-education.psu.edu/geowebdev)
 - [Maps and the Geospatial Revolution](https://www.e-education.psu.edu/maps/)
 - [Open Education Resources](https://open.ems.psu.edu/oer-search?f[]=search_api_aggregation_1:web%20services&search_api_views_fulltext=gis)

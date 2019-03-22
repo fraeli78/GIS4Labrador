@@ -50,3 +50,5 @@ categories = []
 - [Conformant Licenses](https://opendefinition.org/licenses/)
 - [Understanding Free Cultural Works](https://creativecommons.org/share-your-work/public-domain/freeworks)
 - [Licensing types](https://creativecommons.org/share-your-work/licensing-types-examples)
+- [Linked Data](https://www.w3.org/DesignIssues/LinkedData.html)
+- [Open data in Italia](https://opendataitalia.wordpress.com/tag/tim-berners-lee/)

@@ -55,3 +55,4 @@ categories = []
 - [Converting OpenAPI specs to Postman collections](https://blog.getpostman.com/2019/01/05/converting-openapi-specs-to-postman-collections/)
 - [10+ Best jQuery Geolocation Plugins & Tutorials with Demo](https://medium.com/@krissanawat/10-best-jquery-geolocation-plugins-tutorials-with-demo-50391769cdd9)
 - [10+ Best jQuery Geolocation Plugins & Tutorials with Demo](https://medium.com/@krissanawat/10-best-jquery-geolocation-plugins-tutorials-with-demo-50391769cdd9)
+- [Travel time](https://www.traveltimeplatform.com/)

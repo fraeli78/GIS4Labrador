@@ -46,6 +46,7 @@ categories = []
 
 **Introduction**
 
+- [Why should you care about PostGIS? — A gentle introduction to spatial databases](https://medium.com/@tjukanov/why-should-you-care-about-postgis-a-gentle-introduction-to-spatial-databases-9eccd26bc42b)
 - [Query in DB-fiddle](https://www.db-fiddle.com/f/kwBLvL8WUSbxvjSprJg5ce/0)
 - [How I go about teaching JOINs to people](https://towardsdatascience.com/can-we-stop-with-the-sql-joins-venn-diagrams-insanity-16791d9250c3)
 - [Installazione di PostgreSQL11/PostGIS su macOS (e Linux) via Homebrew. Il terminale interattivo- psql](https://medium.com/@ivano.giuliano/installazione-di-postgresql11-postgis-su-macos-e-linux-via-homebrew-dd654b869304)
