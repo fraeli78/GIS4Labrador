@@ -1,11 +1,11 @@
 +++
-title = "OpenStreetMap"
+title = "Video"
 subtitle = "Site collections"
 
 # Add a summary to display on homepage (optional).
 summary = "Site collections"
 
-date = 2019-03-15T20:23:03+01:00
+date = 2019-03-15T20:20:38+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,7 +16,7 @@ featured = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["OpenStreetMap"]
+tags = ["SQL"]
 categories = []
 
 # Projects (optional).
@@ -31,9 +31,7 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Image credit: [**OpenStreetMap**](https://it.wikipedia.org/wiki/OpenStreetMap#/media/File:Openstreetmap_logo.svg)"
-
-
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -41,18 +39,11 @@ categories = []
 
   # Show image only in page previews?
   preview_only = false
-
 +++
 
-**OpenStreetMap** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+**Video** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
 
 
 **Introduction**
 
-- [Learn OSM](https://learnosm.org/en/)
-- [Download OpenStreetMap data for this region:](https://download.geofabrik.de/europe/great-britain.html)
-- [You can help. Map any place in the world even if you've never been there.](https://mapgive.state.gov/index.html)
-- [Why would you use OpenStreetMap if there is Google Maps?](https://geoawesomeness.com/why-would-you-use-openstreetmap-if-there-is-google-maps/)
-- [Overpass API](https://overpass-turbo.eu/)
-- [Manual custom geocoding using OSM database](https://gist.github.com/jpetazzo/5177554)
-- [Near real-time OpenStreetMap editing.](https://osmlab.github.io/show-me-the-way/)
+- [13 APP PER FARE VIDEO GRATIS](https://www.youtube.com/watch?v=9rFz5_-S-sQ)

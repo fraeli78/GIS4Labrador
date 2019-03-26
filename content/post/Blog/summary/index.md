@@ -87,3 +87,4 @@ categories = []
 - [itopen](https://www.itopen.it/)
 - [SPATIAL THOUGHTS](https://spatialthoughts.com/)
 - [OpenGIS CH](https://new.opengis.ch/tech-blog/)
+- [ISPRS International Journal of Geo-Information — Open Access Journal](https://www.mdpi.com/journal/ijgi)
