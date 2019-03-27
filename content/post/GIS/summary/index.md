@@ -49,6 +49,9 @@ categories = []
 **Introduction**
 
 - [Cartographic design principles](https://www.ordnancesurvey.co.uk/resources/carto-design/carto-design-principles.html)
+- [Map Design in GIS (theory)](https://www.youtube.com/watch?v=sp2IK7zMx7E&feature=youtu.be)
+- [MAPPABLE CHEAT-SHEET](https://github.com/AchimTack/awesome-carto-tips)
+- [14 Common UX Mistakes](http://gisuser.com/2016/08/14-common-ux-mistakes/)
 - [Generative Street Addresses from Satellite Imagery](https://www.mdpi.com/2220-9964/7/3/84/htm)
 - [LandGISmaps](https://github.com/Envirometrix/LandGISmaps)
 - [Geospatial Analysis - A comprehensive guide - 2018](http://www.spatialanalysisonline.com/index.html)

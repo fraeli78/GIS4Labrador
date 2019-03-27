@@ -46,6 +46,7 @@ categories = ["Framework"]
 
 **Introduction**
 
+- [Data Visualization for All](https://datavizforall.org/)
 - [Leaflet Day 14 - Image Overlay and Wrap-up](http://spatialgalaxy.net/2019/02/11/leaflet-day-14-image-overlay-and-wrap-up/)
 - [Leaflet for R](https://rstudio.github.io/leaflet/shiny.html)
 - [Geolocate User Location in R Leaflet](https://github.com/AugustT/shiny_geolocation)
