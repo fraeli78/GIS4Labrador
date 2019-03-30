@@ -46,6 +46,7 @@ categories = []
 
 **Introduction**
 
+- [Geocode Locations into Coordinates with US Census or Google](https://datavizforall.org/geocode.html)
 - [QGIS - How to Geocode Addresses Using QGIS](https://www.gislounge.com/how-to-geocode-addresses-using-qgis/)
 - [How to quickly add latitude and longitude coordinates to a spreadsheet using Google Sheets](https://www.gislounge.com/populate-cell-zip-code-based-address-google-sheets/)
 - [Python Geocode](https://github.com/DenisCarriere/geocoder)
@@ -57,4 +58,13 @@ categories = []
 - [Batch CSV Geocoding in Python with Google Maps API](https://www.shanelynn.ie/batch-geocoding-in-python-with-google-geocoding-api/)
 - [Developer Guide - Google Maps](https://developers.google.com/maps/documentation/geocoding/intro)
 - [This is overpass turbo, a web-based data filtering tool for OpenStreetMap.](http://overpass-turbo.eu/)
-- [U.S. Census Geocoder](https://geocoding.geo.census.gov/geocoder/
+- [U.S. Census Geocoder](https://www.census.gov/geo/maps-data/data/geocoder.html/)
+- [Welcome to Geocoder U.S. Census Geocoder](https://geocoding.geo.census.gov/geocoder)
+- [Google Class Geocoder](https://developers.google.com/apps-script/reference/maps/geocoder)
+- [Demo Geocoder US Census or Google](https://github.com/datavizforall/google-sheets-geocoder)
+- [Google Sheets Geocoding Macro](https://github.com/nuket/google-sheets-geocoding-macro)
+- [How should I format my geocoder queries to maximise the number of successful requests?](https://developers.google.com/maps/faq#geocoder_queryformat)
+- [Batchgeo](https://batchgeo.com/) and [tutorial](https://datavizforall.org/batchgeo)
+- [Google My Maps](https://www.google.com/maps/d/) and [tutorial](https://datavizforall.org/mymaps)
+- [Carto Builder](https://carto.com/) and [tutorial](https://datavizforall.org/carto)
+- [Pelias is a modular open-source geocoder using Elasticsearch](https://github.com/pelias/pelias/)

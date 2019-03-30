@@ -1,11 +1,11 @@
 +++
-title = "Licence"
-subtitle = "Site collections"
+title = "Book"
+subtitle = ""
 
 # Add a summary to display on homepage (optional).
 summary = ""
 
-date = 2019-03-15T20:22:05+01:00
+date = 2019-03-28T09:48:26+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,7 +16,7 @@ featured = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Licence"]
+tags = []
 categories = []
 
 # Projects (optional).
@@ -31,7 +31,7 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Image credit: [**opendefinition**](https://opendefinition.org/licenses/)"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -39,18 +39,15 @@ categories = []
 
   # Show image only in page previews?
   preview_only = false
-
 +++
 
-**Licence** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+**Book** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+
 
 
 **Introduction**
 
-- [Conformant Licenses](https://opendefinition.org/licenses/)
-- [Understanding Free Cultural Works](https://creativecommons.org/share-your-work/public-domain/freeworks)
-- [Licensing types](https://creativecommons.org/share-your-work/licensing-types-examples)
-- [Linked Data](https://www.w3.org/DesignIssues/LinkedData.html)
-- [Open data in Italia](https://opendataitalia.wordpress.com/tag/tim-berners-lee/)
-- [Choose an open source license](https://choosealicense.com/)
-- [Licensing a repository](https://help.github.com/en/articles/licensing-a-repository)
+- [On The Line: How Schooling, Housing, and Civil Rights Shaped Hartford and its Suburbs](https://ontheline.trincoll.edu/)
+- [How to Lie with Statistics](https://books.google.it/books?isbn=0393070875)
+- [How to Lie with Maps, 2nd ed. (University of Chicago Press, 1996)](http://books.google.com/books?isbn=0226534219)
+- [Storytelling with Data: A Data Visualization Guide for Business Professionals (Wiley, 2015)](http://www.storytellingwithdata.com/book/)

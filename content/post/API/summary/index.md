@@ -56,3 +56,4 @@ categories = []
 - [10+ Best jQuery Geolocation Plugins & Tutorials with Demo](https://medium.com/@krissanawat/10-best-jquery-geolocation-plugins-tutorials-with-demo-50391769cdd9)
 - [10+ Best jQuery Geolocation Plugins & Tutorials with Demo](https://medium.com/@krissanawat/10-best-jquery-geolocation-plugins-tutorials-with-demo-50391769cdd9)
 - [Travel time](https://www.traveltimeplatform.com/)
+- [Socrata](https://dev.socrata.com/)

@@ -102,5 +102,5 @@ categories = []
 - [Come raccogliere dati geolocalizzati](https://medium.com/coseerobe/come-raccogliere-dati-geolocalizzati-2c36037972aa)
 - [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html)
 - [Introduction to Repls](https://repl.it/site/docs/misc/quick-start)
-- []()
+- [Python for Data Science](https://media.licdn.com/dms/document/C511FAQFzshRdVUGj7Q/feedshare-document-pdf-analyzed/0?e=1553968800&v=beta&t=R4oa9F95Qx6s5t9OgYzJEMcRoGaScuW_nK4qyX41nyc)
 - []()

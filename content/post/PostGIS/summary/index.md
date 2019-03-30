@@ -46,6 +46,7 @@ categories = []
 
 **Introduction**
 
+- [Introduction to PostGIS](https://www.gislounge.com/introduction-to-postgis/?utm_medium=email&utm_campaign=GISNL-Mar-29-2019&utm_source=YMLP)
 - [Why should you care about PostGIS? — A gentle introduction to spatial databases](https://medium.com/@tjukanov/why-should-you-care-about-postgis-a-gentle-introduction-to-spatial-databases-9eccd26bc42b)
 - [Query in DB-fiddle](https://www.db-fiddle.com/f/kwBLvL8WUSbxvjSprJg5ce/0)
 - [How I go about teaching JOINs to people](https://towardsdatascience.com/can-we-stop-with-the-sql-joins-venn-diagrams-insanity-16791d9250c3)
@@ -109,7 +110,8 @@ categories = []
 - [Creazione DB 🐘 PostGIS in cloud per QGIS in 10 minuti (DigitalOcean + Postgres)](https://www.youtube.com/watch?v=xJUnuPZwe_Y)
 - [finding-new-point-with-proportion-between-two-points-postgis](https://gis.stackexchange.com/questions/225929/finding-new-point-with-proportion-between-two-points-postgis)
 - [Lessons learned scaling PostgreSQL database to 1.2bn records/month](https://medium.com/@gajus/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067)
-
+- [GeoJSON Features from PostGIS](http://blog.cleverelephant.ca/2019/03/geojson.html?utm_source=dlvr.it&utm_medium=twitter)
+- [Building Indexes Concurrently](https://www.postgresql.org/docs/current/sql-createindex.html#SQL-CREATEINDEX-CONCURRENTLY)
 **AWS**
 - [Creating a PostgreSQL DB Instance and Connecting to a Database on a PostgreSQL DB Instance](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.CreatingConnecting.PostgreSQL.html)
 - [Connecting to a DB Instance Running the PostgreSQL Database Engine](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ConnectToPostgreSQLInstance.html)

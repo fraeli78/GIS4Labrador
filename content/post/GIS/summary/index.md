@@ -70,7 +70,10 @@ categories = []
   - [GDAL](https://gis.stackexchange.com/questions/293780/create-hexbin-honeycomb-grid-using-command-line-or-python)
   - [spatialite](https://www.gaia-gis.it/fossil/libspatialite/wiki?name=tesselations-4.0)
 - [My data visualizations](https://medium.com/@a.mariel.padilla/my-data-visualizations-3e9a509bb1e4)
-
+- [Free online courses from Trinity College](https://www.edx.org/school/trinityx)
+- [Map and Geographic Information Center](http://magic.lib.uconn.edu/)
+- [A curated guide to the best tools, resources and technologies for data visualization](https://dataviz.tools/)
+- [What I Learned Recreating One Chart Using 24 Tools](https://lisacharlotterost.github.io/)
 **Countries**
 
 - [People think that data is in the cloud, but it’s not. It’s in the ocean.](https://www.nytimes.com/interactive/2019/03/10/technology/internet-cables-oceans.html)
@@ -118,6 +121,7 @@ categories = []
 - [Mapshaper](https://mapshaper.org/)
 - [Convert CSV/Excel To JSON,XML,HTML,SQL,Flat File,KML,...](http://www.convertcsv.com/)
 - [GDAL Coordinate System Barn Raising](https://gdalbarn.com/)
+- [GRASS GIS](https://grass.osgeo.org/documentation/)
 
 **Distance Learning**
 

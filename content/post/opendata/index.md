@@ -55,7 +55,8 @@ categories = []
 - [Open Data Day 2019](https://blog.mapbox.com/open-data-day-2019-32551ed1b30)
 - [Reflections on Why Open Data is not as Simple as it Seems article](https://spatialreserves.wordpress.com/2017/12/25/reflections-on-why-open-data-is-not-as-simple-as-it-seems-article/?_lrsc=dd757822-6ac6-4f4c-9852-48073aea0f98&adumkts=social&aduc=social&adum=external&aduSF=linkedin&adut=ea)
 - [LinkedIn](https://www.linkedin.com/feed/hashtag/opendata/)
-
+- [An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them](https://github.com/Quartz/bad-data-guide)
+- [Open Data Network](https://www.opendatanetwork.com/)
 
 **Worldwide**
 
@@ -97,10 +98,16 @@ categories = []
 **USA**
 
 - [The home of the U.S. Government’s open data](https://www.data.gov/)
+- [National Center for Education Statistics (NCES)](https://nces.ed.gov/)
 - [USA - Guide to Publicly Available Demographic Data](https://demographics.coopercenter.org/guide-to-publicly-available-demographic-data)
 - [USA - National Map Viewer](https://viewer.nationalmap.gov/advanced-viewer/)
+- [Welcome to Connecticut Open Data](https://data.ct.gov/)
 - [Earth Explorer](https://earthexplorer.usgs.gov/)
-- [Census - National Statistic Office](https://www.census.gov/)
+- [Census - National Statistic Office](https://www.census.gov/) collects and shares population, housing, and economic data on its open repositories
+- [Explore this visual interactive of US Census geographic areas and definitions](https://www.census.gov/geo/reference/webatlas/)
+- [The American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs/)
+- [American FactFinder](https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml)
+- [FactFinder - downloading data](https://factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml)
 - [Cropland Data Layer - Agricolture GIS data](https://nassgeodata.gmu.edu/CropScape/)
 - [Repository of Massachusetts GIS Data](https://www.mass.gov/service-details/massgis-data-layers)
 - [Repository for City of Cambridge Datasets](https://www.cambridgema.gov/GIS/gisdatadictionary.aspx)
@@ -108,3 +115,12 @@ categories = []
 - [Philadelphia](https://www.opendataphilly.org/)
 - [Boston](https://data.boston.gov/)
 - [Cambridge](https://www.cambridgema.gov/departments/opendata/)
+- [U.S. Centers for Medicare & Medicaid Services](https://data.medicare.gov/)
+- [US hospitals from the Medicare open data repository](https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u/data)
+**TOOL**
+
+- [Socrata - Data insights, citizen engagement, and performance optimization](https://www.tylertech.com/products/socrata)
+- [Lots of detailed maps in SVG format, which can be easily used and modified for the web (see "SVG/Canvas Maps" below)](https://commons.wikimedia.org/wiki/Main_Page)
+- [World Development Indicators](https://datacatalog.worldbank.org/dataset/world-development-indicators)
+- [zenodo](https://zenodo.org/)
+- [Zenodo - Research. Shared](https://zenodo.readthedocs.io/en/latest/)

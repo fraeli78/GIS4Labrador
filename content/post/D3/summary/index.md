@@ -57,3 +57,7 @@ categories = []
 - [Fast, static D3 maps built with Turf.js and the command-line](https://towardsdatascience.com/fast-static-d3-maps-built-with-turf-js-and-the-command-line-5b7c72b7e775)
 - [Rotate the World](https://www.jasondavies.com/maps/rotate/)
 - [Why I no longer use D3.js](https://medium.com/@PepsRyuu/why-i-no-longer-use-d3-js-b8288f306c9a)
+- [Command-Line Cartography, Part 1](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c)
+- [Let’s Make a Map](https://bost.ocks.org/mike/map/)
+- [A simple d3.js map explained](http://www.d3noob.org/2013/03/a-simple-d3js-map-explained.html)
+- [Unemployment rate by county](https://observablehq.com/@d3/choropleth)

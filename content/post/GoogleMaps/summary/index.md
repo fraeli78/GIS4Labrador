@@ -58,3 +58,6 @@ categories = []
 - [Geocoding + Location Columns in Google Fusion Tables](https://vimeo.com/175617942)
 - [Google Maps APIs byGoogle](https://eu.udacity.com/course/google-maps-apis--ud864)
 - [Using Google Maps API (v3) with Rails (5.2)](https://medium.com/@pjbelo/using-google-maps-api-v3-with-rails-5-2-b066a4b2cf14)
+- [Point Map with Google My Maps](https://datavizforall.org/mymaps.html)
+- [Sentinel-2 MSI: MultiSpectral Instrument, Level-2A](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR)
+- [Time series on Landsat data with Google Earth Engine](http://www.acgeospatial.co.uk/time-series-on-landsat-data-gee/)

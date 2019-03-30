@@ -57,3 +57,4 @@ categories = []
 - [Mobile Data 101: Challenges and Best Practices](https://carto.com/blog/mobile-data-101/)
 - [Exporting Maps for Printing in the Digital Maps Era](https://carto.com/blog/exporting-maps/?utm_content=87278922&utm_medium=social&utm_source=twitter&hss_channel=tw-241079136)
 - [Supercharging your Site Selection: CARTO Reveal's latest release](https://carto.com/blog/site-selection-reveal-release/)
+- [Point Map with Carto Builder](https://datavizforall.org/carto.html)

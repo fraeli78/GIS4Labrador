@@ -46,7 +46,7 @@ categories = ["Framework"]
 
 **Introduction**
 
-- [Data Visualization for All](https://datavizforall.org/)
+- [Leaflet Map Templates](https://datavizforall.org/leaflet.html)
 - [Leaflet Day 14 - Image Overlay and Wrap-up](http://spatialgalaxy.net/2019/02/11/leaflet-day-14-image-overlay-and-wrap-up/)
 - [Leaflet for R](https://rstudio.github.io/leaflet/shiny.html)
 - [Geolocate User Location in R Leaflet](https://github.com/AugustT/shiny_geolocation)
@@ -138,3 +138,11 @@ categories = ["Framework"]
 
 
 **Tools**
+- [colorbrewer2](http://colorbrewer2.org/#)
+- [The Basics of Data Classification](https://www.axismaps.com/guide/data/data-classification/)
+- [Your Friendly Guide to Colors in Data Visualisation](https://lisacharlotterost.github.io/2016/04/22/Colors-for-DataVis/)
+- [Bivariate Choropleth Maps: A How-to Guide](http://www.joshuastevens.net/cartography/make-a-bivariate-choropleth-map/)
+- [Code for Atlanta mapsfor.us (2016)](https://github.com/fraeli78/leafltet_2)
+- [Leaflet Maps with Google Sheets](https://github.com/datavizforall/leaflet-maps-with-google-sheets)
+- [Chris Whong](https://github.com/chriswhong?utf8=%E2%9C%93&tab=repositories&q=leafl&type=&language=)
+- [Leaflet Thematic Polygon Map with Multi-Year Tabs template](https://datavizforall.org/leaflet-polygon-map-multi-year-tabs.html)

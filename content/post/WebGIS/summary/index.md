@@ -47,6 +47,7 @@ https://docs.google.com/spreadsheets/d/1cQcuJY7KK0BLfu7DBWSUdgPd-rXOmouX18UL1Z7s
 
 **Introduction**
 
+
 - [uMap](http://umap.openstreetmap.fr/it/)
 - [uMap Luca](https://sites.google.com/view/lucascalzullo/tutorial/umap)
 - [MAPWARPER](http://mapwarper.net/)
@@ -55,6 +56,11 @@ https://docs.google.com/spreadsheets/d/1cQcuJY7KK0BLfu7DBWSUdgPd-rXOmouX18UL1Z7s
 - [Kepler](https://kepler.gl/)
 - [Teaching Digital Mapping with kepler.gl](http://drstephenrobertson.com/blog-post/teaching-digital-mapping-with-kepler-gl/)
 - [kepler.gl - Tutorial](https://medium.com/search?q=kepler.gl)
+- [Mapstarter is a tool for turning a geographic data file into a map for the web](http://mapstarter.com/)
+
+- [Data-Driven TileMill Map]http://dataforradicals.com/2013/04/16/the-insanely-illustrated-guide-to-your-first-tile-mill-map/)
+
+- [So you want to make a map](https://github.com/veltman/learninglunches/tree/master/maps)
 - [Graduate Certificate in Geospatial Programming and Web Map Development](https://gis.e-education.psu.edu/geowebdev)
 - [Maps and the Geospatial Revolution](https://www.e-education.psu.edu/maps/)
 - [Open Education Resources](https://open.ems.psu.edu/oer-search?f[]=search_api_aggregation_1:web%20services&search_api_views_fulltext=gis)
@@ -97,3 +103,4 @@ https://docs.google.com/spreadsheets/d/1cQcuJY7KK0BLfu7DBWSUdgPd-rXOmouX18UL1Z7s
 - [Finland](https://tiedostopalvelu.maanmittauslaitos.fi/tp/kartta?lang=en)
 - [Data Visualization Helps Manage Australian Drought](https://www.gis-professional.com/content/news/data-visualization-helps-manage-australian-drought-2)
 - [DIGITAL OBSERVATORY FOR PROTECTED AREAS Explorer 3.0](https://dopa-explorer.jrc.ec.europa.eu/)
+- [Potree is a free open-source WebGL based point cloud renderer for large point clouds](http://www.potree.org/index.html)
