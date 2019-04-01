@@ -61,3 +61,5 @@ categories = []
 - [Point Map with Google My Maps](https://datavizforall.org/mymaps.html)
 - [Sentinel-2 MSI: MultiSpectral Instrument, Level-2A](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR)
 - [Time series on Landsat data with Google Earth Engine](http://www.acgeospatial.co.uk/time-series-on-landsat-data-gee/)
+- [How to Build a Custom Google Map Using Addresses in Google Sheets](https://www.youtube.com/watch?v=W0L2DW-6HXs&feature=youtu.be)
+- [Mapping from a Google Spreadsheet](https://www.google.com/earth/outreach/learn/mapping-from-a-google-spreadsheet/)

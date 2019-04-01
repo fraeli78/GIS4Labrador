@@ -95,3 +95,4 @@ categories = []
 - [Storytelling with Data](http://www.storytellingwithdata.com/)
 - [Spatial {Query} Lab](http://spatialquerylab.com/news/)
 - [geospatial technologies and practices](http://blog.geomusings.com/author/billdollins/)
+- [gvSIG blog](https://blog.gvsig.org/)

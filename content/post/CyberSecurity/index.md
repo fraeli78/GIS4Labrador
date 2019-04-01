@@ -1,11 +1,11 @@
 +++
-title = "Google_Drive"
+title = "CyberSecurity"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
 summary = ""
 
-date = 2019-03-28T12:34:30+01:00
+date = 2019-03-30T19:08:27+01:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -37,16 +37,24 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 
+
   # Show image only in page previews?
   preview_only = false
 +++
 
-**Google drive** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+**CyberSecurity** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
 
 **Introduction**
 
-- [Match Columns with VLOOKUP](https://datavizforall.org/vlookup.html)
-- [REMOVING DUPLICATE ROWS](https://trendct.org/2015/08/28/getting-rid-of-duplicate-rows-using-google-sheets/)
-- [OPEN REFINE AND A DATASET](https://trendct.org/2015/04/24/john-jonathan-and-johnny-how-to-merge-them-in-open-refine/)
-- [Chart Your Data](https://datavizforall.org/chart.html)
-- [Google Sheets function list](https://support.google.com/docs/table/25273?hl=en)
+- [Tor Browser](https://blog.torproject.org/)
+- [Tor Project - Protect yourself against tracking, surveillance, and censorship](https://www.torproject.org/download/)
+- [How HTTPS and Tor Work Together to Protect Your Anonymity and Privacy](https://www.eff.org/pages/tor-and-https)
+- [Detailed VPN Comparison Chart](https://thatoneprivacysite.net/vpn-comparison-chart/)
+- [Protect your Privacy with a VPN Tunnel](https://www.privateinternetaccess.com/)
+- [WhatIsMyIP.com](https://www.whatismyip.com/)
+- [Mullvad](https://mullvad.net/en/)
+- [Tunnelblick free software for OpenVPN on macOS](https://tunnelblick.net/)
+- [OpenVPN](https://openvpn.net/community-downloads/)
+- [Algo VPN](https://github.com/trailofbits/algo)
+- [Fast](https://fast.com/)
+- [Internet Archive](https://archive.org/web/web.php)
