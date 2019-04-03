@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on GIS 4 Labrador</title>
+    <link>/tags/python/</link>
+    <description>Recent content in Python on GIS 4 Labrador</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2019 20:17:17 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python</title>
+      <link>/post/python/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:17:17 +0100</pubDate>
+      
+      <guid>/post/python/summary/</guid>
+      <description>Python makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+Introduction
+ Automating GIS processes course! Automating GIS processes Geo libraries in Python (Plotting current fires) Satellite Imagery Analysis with Python PyQGIS 101: Introduction to QGIS Python programming for non-programmers Pyimagesearch Advanced Jupyter Notebooks: A Tutorial Really Simple HTTP Server with Python Python for Geospatial work flows, part 3: Virtual Environments From CSV to GeoDataFrame in two lines Dataset creation and cleaning: Web Scraping using Python — Part 1 Intro to Python and Pandas Intro to Python and Web Scraping Movement data in GIS #20: Trajectools v1 released!</description>
+    </item>
+    
+  </channel>
+</rss>

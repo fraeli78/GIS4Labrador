@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Job on GIS 4 Labrador</title>
+    <link>/tags/job/</link>
+    <description>Recent content in Job on GIS 4 Labrador</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Mar 2019 12:40:47 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/job/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Job</title>
+      <link>/post/job/summary/</link>
+      <pubDate>Mon, 18 Mar 2019 12:40:47 +0100</pubDate>
+      
+      <guid>/post/job/summary/</guid>
+      <description>Job makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+Introduction
+ A Career in Cartography? The Remote Freelancer Geospatial Jobs How I Became A Digital Nomad 79 Websites To Get Freelance Jobs Fast 20 TIPS FOR GREAT JOB INTERVIEWS  </description>
+    </item>
+    
+  </channel>
+</rss>

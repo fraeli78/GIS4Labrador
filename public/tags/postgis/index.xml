@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PostGIS on GIS 4 Labrador</title>
+    <link>/tags/postgis/</link>
+    <description>Recent content in PostGIS on GIS 4 Labrador</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2019 20:16:35 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/postgis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PostGIS</title>
+      <link>/post/postgis/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:16:35 +0100</pubDate>
+      
+      <guid>/post/postgis/summary/</guid>
+      <description>PostGIS makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+Introduction
+ Introduction to PostGIS Why should you care about PostGIS? — A gentle introduction to spatial databases Query in DB-fiddle How I go about teaching JOINs to people Installazione di PostgreSQL11/PostGIS su macOS (e Linux) via Homebrew. Il terminale interattivo- psql Spatial Database Management Bye bye Mongo, Hello Postgres pgRouting Official Documentation Using PostGIS: Data Management and Queries PostGIS Reference 2D distance between points Operators ST_MakePoint Spatial Reference Systems ST_SetSRID Creating a Geospatial database on Amazon RDS Places and their names — observations from 11 million place names PostGIS Spatial Function Practice Exercise Solutions Introduction to PostGIS PostGIS Training Course Which African country has the most number of neighbours?</description>
+    </item>
+    
+  </channel>
+</rss>

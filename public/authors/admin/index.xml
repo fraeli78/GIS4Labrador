@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on GIS 4 Labrador</title>
+    <link>/authors/admin/</link>
+    <description>Recent content in admin on GIS 4 Labrador</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2019 20:21:14 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>D3</title>
+      <link>/post/d3/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:21:14 +0100</pubDate>
+      
+      <guid>/post/d3/summary/</guid>
+      <description>D3 makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+Introduction
+ A Primer in D3js for the Curious D3 gallery D3 Workshop Introduction to D3 - Make a Chart Scatterplots and Borrowing Code Interaction and Animation: D3 Transitions, Behaviors, and Brushing Mapping Data with D3 Tutorial The America’s Cup Finale: Oracle’s Path to Victory Fast, static D3 maps built with Turf.</description>
+    </item>
+    
+    <item>
+      <title>GIS</title>
+      <link>/post/gis/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:15:14 +0100</pubDate>
+      
+      <guid>/post/gis/summary/</guid>
+      <description>GIS makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+MOOC da inserire!!!
+Introduction
+ Cartographic design principles Map Design in GIS (theory) MAPPABLE CHEAT-SHEET 14 Common UX Mistakes Generative Street Addresses from Satellite Imagery LandGISmaps Geospatial Analysis - A comprehensive guide - 2018 Why GIS in Education Matters GeoHack - Geographical centre of all land surfaces on Earth Open Education Resources Free Urban Planning GIS Exercises Open Access book  Tutorials</description>
+    </item>
+    
+    <item>
+      <title>Can your customers find you?</title>
+      <link>/post/scribblemaps/can_your_customers_find_you/</link>
+      <pubDate>Fri, 15 Mar 2019 12:21:24 +0100</pubDate>
+      
+      <guid>/post/scribblemaps/can_your_customers_find_you/</guid>
+      <description>The Christmas holidays are upon us. It’s time for shopping and relaxation. Commercial activities are in full swing. Advertisements flood TV, newspapers, and radio with a ton of last-minute promotions.
+If you are a new business and you would like to advertise an event to attract new customers, you will sure to be found.
+Scribble Maps will make your life easier and help you create a map that can be shared on your digital channels, like social media, your website, and WhatsApp, with directions to your business.</description>
+    </item>
+    
+    <item>
+      <title>Geomarketing Market Research</title>
+      <link>/post/scribblemaps/geomarketing_market_research/</link>
+      <pubDate>Fri, 15 Mar 2019 12:20:49 +0100</pubDate>
+      
+      <guid>/post/scribblemaps/geomarketing_market_research/</guid>
+      <description>Today we are going to show you some real examples on one of the most advanced functionalities of Scribble Maps:
+ Nearby Search.  Any time you have to travel to a new city, you would like to know in a short time, which could be the best area to choose your Hotel, B&amp;amp;B or farmhouse for example.
+In order to find it, you would like to point out in your map where the most important services are located as per your interest.</description>
+    </item>
+    
+    <item>
+      <title>Maps from statistical data</title>
+      <link>/post/scribblemaps/maps_from_statistical_data/</link>
+      <pubDate>Fri, 15 Mar 2019 12:20:19 +0100</pubDate>
+      
+      <guid>/post/scribblemaps/maps_from_statistical_data/</guid>
+      <description>Access to weather information has increased enormously. Anyone with a smartphone has an app to check weather forecasts for at any given moment. On a daily basis, we are flooded with information on the internet, TV, and radio about climatic events such as:
+ The first snowfall in New York; Milan&amp;rsquo;s airport closing due to fog; Children and the elderly are asked to stay at home during the central hours of the day due to torrid weather.</description>
+    </item>
+    
+    <item>
+      <title>Make Thematic Maps Quickly</title>
+      <link>/post/scribblemaps/make_thematic_maps_quickly/</link>
+      <pubDate>Fri, 15 Mar 2019 12:19:41 +0100</pubDate>
+      
+      <guid>/post/scribblemaps/make_thematic_maps_quickly/</guid>
+      <description>Assume that for some reason you need to create some worldwide thematic maps. The maps should contain the national borders, main cities, main communication routes, rivers and lakes. Let us suppose you have a short time to finish the job and you have absolutely nothing at all in your archive. In other words, we have to solve this problem by using only information available on Geospatial Data Portals such as Natural Earth, NASA Earth Observations, The FAO GeoNetwork…, and so on.</description>
+    </item>
+    
+    <item>
+      <title>Learn how to create your own custom web maps</title>
+      <link>/post/scribblemaps/creating_custom_web_maps/</link>
+      <pubDate>Fri, 15 Mar 2019 12:17:21 +0100</pubDate>
+      
+      <guid>/post/scribblemaps/creating_custom_web_maps/</guid>
+      <description>Since Google Maps released the API in 2005 Web maps became popular after giving web developers an easy way to drop custom apps in their sites with a minimal amount of new code.
+Today’s Web maps are known as “slippy maps”. The user can freely pan and zoom in the map with fluid motions. The interface uses Ajax to dynamically load new portions of the map as needed without reloading the whole page.</description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/jupyter/</guid>
+      <description>from IPython.core.display import Image Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)  print(&amp;quot;Welcome to Academic!&amp;quot;)  Welcome to Academic!  Install Python and Jupyter Install Anaconda which includes Python 3 and Jupyter notebook.
+Otherwise, for advanced users, install Jupyter notebook with pip3 install jupyter.
+Create a new blog post as usual Run the following commands in your Terminal, substituting &amp;lt;MY_WEBSITE_FOLDER&amp;gt; and my-post with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website designer for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
+Follow our easy step by step guide to learn how to build your own free website with Academic. Check out the personal demo or the business demo of what you&amp;rsquo;ll get in less than 10 minutes.
+ View the documentation Ask a question Request a feature or report a bug Updating?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/author/admin/</link>
+      <pubDate>Tue, 19 Mar 2019 11:21:35 +0100</pubDate>
+      
+      <guid>/author/admin/</guid>
+      <description>I have worked with a lot of the modern technologies that are used in GIS, WebGIS, Database handling, and Python to name a few. In addition, I help manage several data, elaborating statistical reports. Furthermore, I had the pleasure of working for public and private companies, as well as a one-year contract in university research.</description>
+    </item>
+    
+  </channel>
+</rss>

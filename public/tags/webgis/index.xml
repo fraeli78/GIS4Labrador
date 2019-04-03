@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebGIS on GIS 4 Labrador</title>
+    <link>/tags/webgis/</link>
+    <description>Recent content in WebGIS on GIS 4 Labrador</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2019 20:18:07 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/webgis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WebGIS</title>
+      <link>/post/webgis/summary/</link>
+      <pubDate>Fri, 15 Mar 2019 20:18:07 +0100</pubDate>
+      
+      <guid>/post/webgis/summary/</guid>
+      <description>WebGIS makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+https://docs.google.com/spreadsheets/d/1cQcuJY7KK0BLfu7DBWSUdgPd-rXOmouX18UL1Z7sQqY/edit#gid=239928523/gviz/tq?tq=select%A
+Introduction
+ Online mapping tools uMap uMap Luca MAPWARPER Tutorial per creare mappe online su UMAP aggiornabili con file CSV da GOOGLEDRIVE Query Language Kepler Teaching Digital Mapping with kepler.gl kepler.gl - Tutorial Mapstarter is a tool for turning a geographic data file into a map for the web</description>
+    </item>
+    
+  </channel>
+</rss>

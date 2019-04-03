@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>/talk/example/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/cybersecurity/</loc>
+      <lastmod>2019-04-01T16:41:19+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/tablau/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/kartograph/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/google_drive/</loc>
+      <lastmod>2019-04-01T16:41:19+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/book/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/job/summary/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/blog/summary/</loc>
+      <lastmod>2019-04-01T16:41:19+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/virtualmachine/summary/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/scraping/summary/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/git_github/summary/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/script/summary/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/openstreetmap/summary/</loc>
+      <lastmod>2019-03-26T11:51:45+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/geocode/summary/</loc>
+      <lastmod>2019-04-01T16:41:19+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/licences/summary/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/googlemaps/summary/</loc>
+      <lastmod>2019-04-03T14:48:17+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/d3/summary/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/mapbox/summary/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/leaflet/summary/</loc>
+      <lastmod>2019-04-03T14:48:17+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/sql/summary/</loc>
+      <lastmod>2019-03-21T16:34:51+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/video/</loc>
+      <lastmod>2019-03-26T11:51:45+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/elasticsearch/summary/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/javascript/summary/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/editor/summary/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/font/summary/</loc>
+      <lastmod>2019-04-03T14:48:17+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/illustrator/summary/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/api/summary/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/webgis/summary/</loc>
+      <lastmod>2019-04-03T14:48:17+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/foss4g/summary/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/python/summary/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/carto/summary/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/cloud/</loc>
+      <lastmod>2019-03-26T11:51:45+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/gdal/summary/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/postgis/summary/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/spatialite/summary/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/arcgis/summary/</loc>
+      <lastmod>2019-03-21T16:34:51+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/qgis/summary/</loc>
+      <lastmod>2019-03-21T16:34:51+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/gis/summary/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/scribblemaps/can_your_customers_find_you/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/scribblemaps/geomarketing_market_research/</loc>
+      <lastmod>2019-03-15T20:06:39+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/scribblemaps/maps_from_statistical_data/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/scribblemaps/make_thematic_maps_quickly/</loc>
+      <lastmod>2019-03-15T16:22:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/scribblemaps/creating_custom_web_maps/</loc>
+      <lastmod>2019-03-15T16:43:15+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/opendata/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/jupyter/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tutorial/example/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tutorial/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/external-project/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/internal-project/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/getting-started/</loc>
+      <lastmod>2019-03-15T12:02:48+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/person-re-id/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/clothing-search/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/admin/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/1/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/api/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/academic/</loc>
+      <lastmod>2019-03-15T12:02:48+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/arcgis/</loc>
+      <lastmod>2019-03-21T16:34:51+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/blog/</loc>
+      <lastmod>2019-04-01T16:41:19+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/carto/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/d3/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/deep-learning/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/demo/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/desktop-gis/</loc>
+      <lastmod>2019-03-21T16:34:51+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/es/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/editor/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/elasticsearch/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/foss4g/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/font/</loc>
+      <lastmod>2019-04-03T14:48:17+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/framework/</loc>
+      <lastmod>2019-04-03T14:48:17+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ga-cushen/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/gdal/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/gis/</loc>
+      <lastmod>2019-03-21T16:34:51+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/geocode/</loc>
+      <lastmod>2019-04-01T16:41:19+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/git/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/github/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/googlemaps/</loc>
+      <lastmod>2019-04-03T14:48:17+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/javascript/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/job/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/leaflet/</loc>
+      <lastmod>2019-04-03T14:48:17+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/licence/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ms-nixon/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/mapbox/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/openstreetmap/</loc>
+      <lastmod>2019-03-26T11:51:45+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/opendata/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/postgis/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/python/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/qgis/</loc>
+      <lastmod>2019-03-21T16:34:51+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/sql/</loc>
+      <lastmod>2019-03-21T16:34:51+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/scribblemaps/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/script/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/slides/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/slides/example-slides/</loc>
+      <lastmod>2019-03-14T10:51:34+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/spatialite/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/tutorials/</loc>
+      <lastmod>2019-03-21T16:34:51+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/virtualmachine/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/webgis/</loc>
+      <lastmod>2019-04-03T14:48:17+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/admin/</loc>
+      <lastmod>2019-03-30T11:33:07+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/illustrator/</loc>
+      <lastmod>2019-03-19T11:21:35+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
