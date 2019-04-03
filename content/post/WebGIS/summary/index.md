@@ -47,7 +47,7 @@ https://docs.google.com/spreadsheets/d/1cQcuJY7KK0BLfu7DBWSUdgPd-rXOmouX18UL1Z7s
 
 **Introduction**
 
-
+- [Online mapping tools](http://ledeprogram.com/2015/absolutely-everything-you-need-to-know-about-mapping-tools/)
 - [uMap](http://umap.openstreetmap.fr/it/)
 - [uMap Luca](https://sites.google.com/view/lucascalzullo/tutorial/umap)
 - [MAPWARPER](http://mapwarper.net/)

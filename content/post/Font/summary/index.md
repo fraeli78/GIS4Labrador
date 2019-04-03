@@ -48,3 +48,4 @@ categories = []
 - [Adobe Fonts](https://github.com/adobe-fonts)
 - [dafont](https://www.dafont.com/it/)
 - [whatfontis](https://www.whatfontis.com/)
+- [Font Awesome](https://cdn.fontawesome.com/)

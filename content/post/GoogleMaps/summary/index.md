@@ -45,6 +45,7 @@ categories = []
 
   **Introduction**
 
+- [Maps Mania](http://googlemapsmania.blogspot.com/)
 - [Using Google Maps costs more than you think.](https://medium.com/swlh/using-google-maps-costs-more-than-you-think-d62c7d857b2d)
 - [Place Autocomplete Address Form](https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-addressform)
 - [Visualizing Geographic Statistical Data with Google Maps](https://medium.com/@nholmber/gmaps-data-visualization-2b7cc685012d)
@@ -63,3 +64,5 @@ categories = []
 - [Time series on Landsat data with Google Earth Engine](http://www.acgeospatial.co.uk/time-series-on-landsat-data-gee/)
 - [How to Build a Custom Google Map Using Addresses in Google Sheets](https://www.youtube.com/watch?v=W0L2DW-6HXs&feature=youtu.be)
 - [Mapping from a Google Spreadsheet](https://www.google.com/earth/outreach/learn/mapping-from-a-google-spreadsheet/)
+- [Become a Google mapping expert](https://www.google.com/earth/outreach/learn/)
+- [How to Make a Google Map from Excel - Tutoria](https://www.youtube.com/watch?v=QpoFpIaSjdc)
