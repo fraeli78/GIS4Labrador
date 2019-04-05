@@ -47,6 +47,8 @@ https://docs.google.com/spreadsheets/d/1cQcuJY7KK0BLfu7DBWSUdgPd-rXOmouX18UL1Z7s
 
 **Introduction**
 
+- [Top 28 Best Free JQuery Map Plugins To Create An Interactive Map](https://colorlib.com/wp/jquery-map-plugins/)
+- [JQuery Global Map Plugins](https://www.sitepoint.com/10-jquery-global-map-plugins/)
 - [Online mapping tools](http://ledeprogram.com/2015/absolutely-everything-you-need-to-know-about-mapping-tools/)
 - [uMap](http://umap.openstreetmap.fr/it/)
 - [uMap Luca](https://sites.google.com/view/lucascalzullo/tutorial/umap)
@@ -58,8 +60,9 @@ https://docs.google.com/spreadsheets/d/1cQcuJY7KK0BLfu7DBWSUdgPd-rXOmouX18UL1Z7s
 - [kepler.gl - Tutorial](https://medium.com/search?q=kepler.gl)
 - [Mapstarter is a tool for turning a geographic data file into a map for the web](http://mapstarter.com/)
 
-- [Data-Driven TileMill Map]http://dataforradicals.com/2013/04/16/the-insanely-illustrated-guide-to-your-first-tile-mill-map/)
+- [Data-Driven TileMill Map](http://dataforradicals.com/2013/04/16/the-insanely-illustrated-guide-to-your-first-tile-mill-map/)
 
+- [Free Course](http://www.geog.leeds.ac.uk/courses/postgrad/web/info/reading/)
 - [So you want to make a map](https://github.com/veltman/learninglunches/tree/master/maps)
 - [Graduate Certificate in Geospatial Programming and Web Map Development](https://gis.e-education.psu.edu/geowebdev)
 - [Maps and the Geospatial Revolution](https://www.e-education.psu.edu/maps/)
@@ -93,7 +96,7 @@ https://docs.google.com/spreadsheets/d/1cQcuJY7KK0BLfu7DBWSUdgPd-rXOmouX18UL1Z7s
 - [MaptimeBoston](http://maptimeboston.github.io/)
 - [OpenRailwayMap](https://www.openrailwaymap.org/index.php)
 - [jQuery Mapael 2.2.0](https://www.vincentbroute.fr/mapael/)
-
+- [Clickable JQVMAP](https://www.10bestdesign.com/jqvmap/)
 - [Dataviz example with jQuery Mapael](https://rawgit.com/neveldo/jQuery-Mapael/master/examples/advanced/dataviz_example.html)
 - [Wikimapping](https://wikimapping.com/blog/)
 - [Web programming for cartographers — beyond the basics](https://medium.com/@ralucagnicola/web-programming-for-cartographers-beyond-the-basics-cecac632551a)

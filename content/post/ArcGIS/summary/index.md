@@ -60,7 +60,7 @@ categories = ["Desktop GIS"]
 - [Add Local geojson on map load](https://community.esri.com/thread/217462-add-local-geojson-on-map-load)
 - [EsriDipendente](http://esridipendente.forumer.it/)
 - [Analyzing traffic in ArcGIS Online](https://www.youtube.com/watch?v=JqBunNKIedk)
-
+- [2008 General Election Results - ArcGIS online](http://statelocaltryit.maps.arcgis.com/apps/webappviewer/index.html?id=5963b160d84f4a27976fc529076699da)
 
 **Tutorials**
 

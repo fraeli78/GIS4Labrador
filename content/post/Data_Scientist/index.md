@@ -1,11 +1,11 @@
 +++
-title = "Fonts"
-subtitle = "Site collections"
+title = "Data_Scientist"
+subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = "Site collections"
+summary = ""
 
-date = 2019-03-15T20:18:54+01:00
+date = 2019-04-05T15:46:21+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,7 +16,7 @@ featured = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Font"]
+tags = []
 categories = []
 
 # Projects (optional).
@@ -31,7 +31,7 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Image credit: [**wikipedia**](https://en.wikipedia.org/wiki/File:Schriftbild.jpg)"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -41,13 +41,11 @@ categories = []
   preview_only = false
 +++
 
-**Fonts** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+  ## [Leaflet](https://leafletjs.com/) an open-source JavaScript library for mobile-friendly interactive maps.
 
-**Introduction**
 
-- [Adobe Fonts](https://github.com/adobe-fonts)
-- [dafont](https://www.dafont.com/it/)
-- [whatfontis](https://www.whatfontis.com/)
-- [Font Awesome](https://cdn.fontawesome.com/)
-- [Change the Fonts](https://www.w3schools.com/css/css_font.asp)
-- [Link a Font from Google Fonts](https://fonts.google.com/)
+
+  ### Introduction
+
+
+  - [All lessons provided by NCEAS and collaborators here on GitHub.](https://nceas.github.io/oss-2017/lessons.html)
