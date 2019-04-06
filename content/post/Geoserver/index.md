@@ -1,11 +1,11 @@
 +++
-title = "Cloud"
-subtitle = "Site collections"
+title = "GeoServer"
+subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = "Site collections"
+summary = ""
 
-date = 2019-03-15T20:17:08+01:00
+date = 2019-04-06T09:56:55+02:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,7 +16,7 @@ featured = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Carto"]
+tags = []
 categories = []
 
 # Projects (optional).
@@ -31,7 +31,7 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Image credit: [**wikipedia**](https://en.wikipedia.org/wiki/CartoDB#/media/File:CARTO-logo.svg)"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -41,17 +41,6 @@ categories = []
   preview_only = false
 +++
 
-**Cloud** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+  **GeoServer** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
 
-
-
-**Introduction**
-
-- [Digital Ocean](https://www.digitalocean.com/)
-- [Amazon](https://aws.amazon.com)
-- [Boundless](https://federal.planet.com/)
-### Boundlessgeo
-- [boundlessgeo - SERVER - Building web maps](https://suite.boundlessgeo.com/docs/latest/webmaps/index.html)
-
-### Sentinel Hub
-- [Sentinel Hub - processing satellite data](https://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=43.57904044626799&lng=10.260625630617142&zoom=12&preset=92_NDWI&layers=B01,B02,B03&maxcc=20&gain=1.0&gamma=1.0&time=2017-02-01%7C2017-08-09&atmFilter=&showDates=false)
+- [Vector tiles tutorial](https://docs.geoserver.org/latest/en/user/extensions/vectortiles/tutorial.html)

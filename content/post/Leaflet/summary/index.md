@@ -41,10 +41,10 @@ categories = ["Framework"]
   preview_only = false
 +++
 
-## [Leaflet](https://leafletjs.com/) an open-source JavaScript library for mobile-friendly interactive maps created by [Vladimir Agafonkin](https://agafonkin.com/).
+## _[Leaflet](https://leafletjs.com/) an open-source JavaScript library for mobile-friendly interactive maps created by [Vladimir Agafonkin](https://agafonkin.com/)._
 
 
-### Tutorial
+### Tutorials
 
 - #### Welcome to the Web Map Workshop series by "[DUSPviz](http://duspviz.mit.edu/web-map-workshop/)"
   - [Intro to Websites (HTML/CSS)](http://duspviz.mit.edu/web-map-workshop/code-your-first-website/)
@@ -126,6 +126,7 @@ categories = ["Framework"]
   - [geolocate the user with many options](https://github.com/domoritz/leaflet-locatecontrol)
   - [A responsive sidebar with tabs just for Leaflet](https://github.com/nickpeihl/leaflet-sidebar-v2)
   - [Synchronization of leaflet.js and google spreadsheet](http://www.coffeegnome.net/synchronization-of-leaflet-js-and-google-spreadsheet/)
+  - [Qgis2web](https://medium.com/@tomchadwin/where-next-for-qgis2web-2c39e03b4131)
 
 ### Examples
 
@@ -139,7 +140,8 @@ categories = ["Framework"]
   - [Student final project - Geography 575 spring 2017](https://geography.wisc.edu/geography-575-spring-2017/)
   - [Madison Geography 575 Final Projects](http://geog575-spring2016.github.io/)
   - [Plano Mutual Cemetery](http://gisteckno.com/pmc/)
-
+  - [OpenRailwayMap](https://www.openrailwaymap.org/index.php)
+  - [Digital Observatory for Protected Areas (DOPA) Explorer 3.0](https://dopa-explorer.jrc.ec.europa.eu/)
 
 ### Tools
 

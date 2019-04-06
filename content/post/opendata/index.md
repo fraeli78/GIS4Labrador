@@ -94,6 +94,7 @@ categories = []
 - [UK - National Statistics](http://geoportal.statistics.gov.uk/)
 - [Whanganui District Council’s](http://data.whanganui.govt.nz/)
 - [Zanzibar Social and Environmental Atlas for coastal and marine areas](http://zansea-geonode.org/)
+- [Finland](https://tiedostopalvelu.maanmittauslaitos.fi/tp/kartta?lang=en)
 
 **USA**
 

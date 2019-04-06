@@ -61,6 +61,12 @@ categories = []
 - [Free Urban Planning GIS Exercises](https://www.gislounge.com/free-urban-planning-gis-exercises/?utm_medium=email&utm_campaign=GISNL-Dec-20-2018&utm_source=YMLP)
 - [Open Access book](http://oapen.org/search?keyword=map)
 
+- [The State of Vector tiles](https://drive.google.com/open?id=1s7wzH8SlijjqbAxhWgzVQZ7JmoC65kIp)
+- [The State of Vector tiles](https://www.youtube.com/watch?v=se2cd3BMYRY)
+
+- [MAPWARPER](http://mapwarper.net/)
+
+
 **Tutorials**
 
 - Convert City map into hexagonal grid:

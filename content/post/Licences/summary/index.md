@@ -54,3 +54,4 @@ categories = []
 - [Open data in Italia](https://opendataitalia.wordpress.com/tag/tim-berners-lee/)
 - [Choose an open source license](https://choosealicense.com/)
 - [Licensing a repository](https://help.github.com/en/articles/licensing-a-repository)
+- [A whole range of license types](https://choosealicense.com/)
