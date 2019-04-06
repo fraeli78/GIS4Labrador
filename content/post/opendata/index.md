@@ -125,3 +125,6 @@ categories = []
 - [World Development Indicators](https://datacatalog.worldbank.org/dataset/world-development-indicators)
 - [zenodo](https://zenodo.org/)
 - [Zenodo - Research. Shared](https://zenodo.readthedocs.io/en/latest/)
+
+- [LandGIS - Open Land Data Service](https://github.com/Envirometrix/LandGISmaps)
+- [Corine Land Cover now updated for the 2018 reference year](https://land.copernicus.eu/news/corine-land-cover-now-updated-for-the-2018-reference-year)

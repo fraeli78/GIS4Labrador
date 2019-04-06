@@ -63,3 +63,19 @@ categories = []
   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [raster2data](https://github.com/thejholloway/raster2data)
   - [GitHub status](https://www.githubstatus.com/)
+
+### Topics
+[The top used topics on GitHub](https://github.com/topics/)
+
+  - [Cartography](https://github.com/topics/cartography)
+  - [Mapping](https://github.com/topics/mapping)
+  - [cheatsheet](https://github.com/topics/cheatsheet)
+  - [GIS](https://github.com/topics/gis)
+  - [WebGIS](https://github.com/topics/webgis)
+  - [leaflet](https://github.com/topics/leaflet)
+  - [Python](https://github.com/topics/python)
+  - [Opendata](https://github.com/topics/opendata)
+  - [Scraping](https://github.com/topics/scraping)
+  - [Geocoding](https://github.com/topics/geocoding)
+  - [PostGIS](https://github.com/topics/postgis)
+  - [SQL](https://github.com/topics/sql)

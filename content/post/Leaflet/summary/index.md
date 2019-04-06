@@ -142,6 +142,7 @@ categories = ["Framework"]
   - [Plano Mutual Cemetery](http://gisteckno.com/pmc/)
   - [OpenRailwayMap](https://www.openrailwaymap.org/index.php)
   - [Digital Observatory for Protected Areas (DOPA) Explorer 3.0](https://dopa-explorer.jrc.ec.europa.eu/)
+  - [Renewable energy simulations, ninja style](https://www.renewables.ninja/)
 
 ### Tools
 

@@ -59,6 +59,9 @@ categories = []
       - [Cloud and Server GIS](https://www.e-education.psu.edu/geog865/)
       - [Spatial Data Management for the Geospatial Professional](https://www.e-education.psu.edu/spatialdb/syllabus)
 
+- #### [Data Visualization for All](https://www.edx.org/course/data-visualization-all-trinityx-t005x#) - using free tools: Google Sheets, Tableau, Highcharts, Carto, Leaflet, GitHub
+
+
 - #### [Maptime Boston](http://maptimeboston.github.io/)
 
 - #### [So you want to make a map](https://github.com/veltman/learninglunches/tree/master/maps)
@@ -67,6 +70,9 @@ categories = []
 
 
 ### Collection of interactive maps
+
+- #### JavaScript & D3 Libraries - [dataviz.tools](https://dataviz.tools/category/javascript-d3-libraries/)
+
 - #### jQuery
 
   - [Top 28 Best Free JQuery Map Plugins To Create An Interactive Map](https://colorlib.com/wp/jquery-map-plugins/)
@@ -105,6 +111,11 @@ categories = []
 - #### Potree
   - [Potree is a free open-source WebGL based point cloud renderer for large point clouds](http://www.potree.org/index.html)
 
+- #### Historical Map [Collection](https://www.flickr.com/photos/uconnlibrariesmagic/sets/72157617878169122/detail/)
+
+- #### Historic Topographic Maps Pushed Into [3D](https://kottke.org/19/01/historic-topographic-maps-pushed-into-3d)
+
+- #### Historical Maps Online [MAPIRE](https://www.arcanum.hu/en/mapire/)
 
 ### Medium
 - [Web programming for cartographers — beyond the basics](https://medium.com/@ralucagnicola/web-programming-for-cartographers-beyond-the-basics-cecac632551a)

@@ -47,6 +47,7 @@ categories = []
 
 **Introduction**
 
+- [People think that data is in the cloud, but it’s not. It’s in the ocean.](https://www.nytimes.com/interactive/2019/03/10/technology/internet-cables-oceans.html)
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Amazon](https://aws.amazon.com)
 - [Boundless](https://federal.planet.com/)
@@ -55,3 +56,7 @@ categories = []
 
 ### Sentinel Hub
 - [Sentinel Hub - processing satellite data](https://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=43.57904044626799&lng=10.260625630617142&zoom=12&preset=92_NDWI&layers=B01,B02,B03&maxcc=20&gain=1.0&gamma=1.0&time=2017-02-01%7C2017-08-09&atmFilter=&showDates=false)
+
+
+- [The State of Vector tiles](https://drive.google.com/open?id=1s7wzH8SlijjqbAxhWgzVQZ7JmoC65kIp)
+- [The State of Vector tiles](https://www.youtube.com/watch?v=se2cd3BMYRY)

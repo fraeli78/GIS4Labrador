@@ -72,3 +72,10 @@ categories = []
 - [MapShaper - Tutorial](https://datavizforall.org/convert-edit-join-and-dissolve-with-mapshaper-org.html)
 - [MapShaper GitHub project wiki](https://github.com/mbloch/mapshaper/wiki)
 - [ORDINARE I POLIGONI DI UNO SHAPEFILE IN MODO PIRAMIDALE](https://pigrecoinfinito.wordpress.com/2019/03/27/ordinare-i-poligoni-di-uno-shapefile-in-modo-piramidale/)
+
+- [Get Lat Long](https://www.latlong.net/)
+- [GeoJSON data converter](http://geojson.io)
+- [Mapshaper](https://mapshaper.org/)
+- [Convert CSV/Excel To JSON,XML,HTML,SQL,Flat File,KML,...](http://www.convertcsv.com/)
+- [GDAL Coordinate System Barn Raising](https://gdalbarn.com/)
+- [GRASS GIS](https://grass.osgeo.org/documentation/)

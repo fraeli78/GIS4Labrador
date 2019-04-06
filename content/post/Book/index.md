@@ -51,3 +51,5 @@ categories = []
 - [How to Lie with Statistics](https://books.google.it/books?isbn=0393070875)
 - [How to Lie with Maps, 2nd ed. (University of Chicago Press, 1996)](http://books.google.com/books?isbn=0226534219)
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals (Wiley, 2015)](http://www.storytellingwithdata.com/book/)
+- [OAPEN - Open Access Publishing in UE networks](http://oapen.org/search?keyword=map)
+- [GIS in Sustainable Urban Planning and Management : A Global Perspective](http://oapen.org/search?identifier=1002491)

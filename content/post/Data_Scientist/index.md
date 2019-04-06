@@ -48,4 +48,6 @@ categories = []
   ### Introduction
 
 
-  - [All lessons provided by NCEAS and collaborators here on GitHub.](https://nceas.github.io/oss-2017/lessons.html)
+- [All lessons provided by NCEAS and collaborators here on GitHub.](https://nceas.github.io/oss-2017/lessons.html)
+- [What I Learned Recreating One Chart Using 24 Tools](https://lisacharlotterost.github.io/)
+- [BigData Earth Releases a New Web Mapping, Analysis and Reporting App on Exposure Management](http://gisuser.com/2019/01/bigdata-earth-releases-a-new-web-mapping-analysis-and-reporting-app-on-exposure-management/)

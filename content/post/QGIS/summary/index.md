@@ -47,6 +47,7 @@ categories = ["Desktop GIS"]
 **Introduction**
 
 - [GitHub](https://github.com/qgis)
+- [Intermediate GIS with QGIS and Postgis](http://training.datapolitan.com/qgis-training/Intermediate_GIS/workbook.pdf)
 - [Building QGIS from source - step by step](http://htmlpreview.github.io/?https://raw.github.com/qgis/QGIS/master/doc/INSTALL.html)
 - [QField per QGIS - Release Candidate 4](http://k1z.blog.uni-heidelberg.de/2018/11/25/qgis-plugin-osm-tools-v32-published/)
 - [OpenRouteService](http://k1z.blog.uni-heidelberg.de/2018/11/25/qgis-plugin-osm-tools-v32-published/)

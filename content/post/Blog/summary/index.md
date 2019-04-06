@@ -49,6 +49,13 @@ categories = []
 
 - [Anita Graser](https://anitagraser.com/)
 - [Spatial Galaxy](http://spatialgalaxy.net/)
+- [Urban Cartography](https://www.spur.org/publications/urbanist-article/2014-11-11/urban-cartography)
+- [MAPPABLE CHEAT-SHEET](https://github.com/AchimTack/awesome-carto-tips)
+- [GeoSpatialWorld](https://www.geospatialworld.net/blogs/?utm_source=top-menu-moved-bottom)
+- [Maps & Cartography](https://gisgeography.com/category/maps-cartography/)
+- [Adventures In Mapping](https://adventuresinmapping.com/)
+- [Trajectory](http://trajectorymagazine.com/tag/gis/)
+- [GISuser](http://blog.gisuser.com/)
 - [Maps Mania](http://scrubbrush-maprap.blogspot.com/)
 - [City Lab](https://www.citylab.com/posts/maps/)
 - [Google Maps](https://www.blog.google/products/maps/)
