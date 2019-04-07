@@ -53,3 +53,5 @@ categories = []
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals (Wiley, 2015)](http://www.storytellingwithdata.com/book/)
 - [OAPEN - Open Access Publishing in UE networks](http://oapen.org/search?keyword=map)
 - [GIS in Sustainable Urban Planning and Management : A Global Perspective](http://oapen.org/search?identifier=1002491)
+
+- [Mike Dane](https://www.mikedane.com/)

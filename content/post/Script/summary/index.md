@@ -53,3 +53,4 @@ categories = []
 - [Espressioni regolari per la pulizia dei dati](https://pigrecoinfinito.wordpress.com/2019/02/18/qgis-le-espressioni-regolari-per-la-pulizia-dei-dati/)
 - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Download.php)
 - [Introduction to the geo command line](https://medium.com/devseed/introduction-to-the-geo-command-line-3cc7a66a926e)
+- [Overview of Google Apps Script](https://developers.google.com/apps-script/overview)

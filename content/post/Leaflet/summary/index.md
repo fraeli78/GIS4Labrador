@@ -105,6 +105,10 @@ categories = ["Framework"]
   - [Leaflet Thematic Polygon Map with Multi-Year Tabs template](https://datavizforall.org/leaflet-polygon-map-multi-year-tabs.html)
   - [Leaflet maps with data from Google Sheets](https://rdrn.me/leaflet-maps-google-sheets/)
 
+- #### Leaflet Zip Code Map
+  - [Part 1](https://dillonshook.com/leaflet-zip-code-map-part-1/)
+  - [Part 2](https://dillonshook.com/leaflet-zip-code-map-part-2/)
+
 ### Plugin
 
 - #### Great Leaflet [plugins](https://leafletjs.com/plugins.html)

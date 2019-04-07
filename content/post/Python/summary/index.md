@@ -46,6 +46,8 @@ categories = []
 
 **Introduction**
 
+- [Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
+
 - [PyQGIS Developer Cookbook](https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/index.html)
 - [Automating GIS processes course!](https://automating-gis-processes.github.io/2016/)
 - [Automating GIS processes](https://github.com/Automating-GIS-processes)

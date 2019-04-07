@@ -56,6 +56,7 @@ categories = ["Desktop GIS"]
 - [Tips for Creating ArcGIS-like Symbology in QGIS](https://opengislab.com/blog/2019/2/5/tips-for-creating-arcgis-like-symbology-in-qgis?format=amp)
 - [How to add Google Maps layers in QGIS 3](https://geogeek.xyz/how-to-add-google-maps-layers-in-qgis-3.html)
 - [Creating a statistical dot density map with QGIS](http://learngis.uk/creating-statistical-dot-density-map-qgis/)
+- [Geocoding Addresses Tutorial](https://guides.library.ucsc.edu/DSCguides/QGIS_GeocodingAddresses)
 - Video
   - [Animating markers using MMQGIS](https://www.youtube.com/watch?v=GAPPQaULmGM)
   - [Using the Time Manager plug-in](https://www.youtube.com/watch?v=nHrFOPf1UGw)

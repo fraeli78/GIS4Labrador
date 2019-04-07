@@ -50,3 +50,7 @@ categories = []
 - [OPEN REFINE AND A DATASET](https://trendct.org/2015/04/24/john-jonathan-and-johnny-how-to-merge-them-in-open-refine/)
 - [Chart Your Data](https://datavizforall.org/chart.html)
 - [Google Sheets function list](https://support.google.com/docs/table/25273?hl=en)
+- [Use Google Sheets as your application's reporting tool](https://codelabs.developers.google.com/codelabs/sheets-api/#0)
+- [Comprehensive access to spreadsheets](https://developers.google.com/sheets/api/)
+- [Google Sheets Get Distance & Time – GOOGLEMAPS Function](https://www.chicagocomputerclasses.com/google-sheets-google-maps-function-distance-time/)
+- [Shortcuts: Getting Google Drive Data Onto a Map](https://www.youtube.com/watch?v=OS2Nj5G9cGs)
