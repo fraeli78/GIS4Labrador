@@ -47,13 +47,15 @@ categories = []
 
 ### Tutorials
 
-- [Geospatial Analysis - A comprehensive guide - 2018](http://www.spatialanalysisonline.com/index.html)
-- **GIS Mapping** - [DUSPviz](http://duspviz.mit.edu/tutorials/#gismapping)
-- [Geographic Information Systems (GIS): Tutorials and Help Resources](https://libguides.mit.edu/c.php?g=176295&p=1161396)
-- [Online Tips And Tutorials](http://sites.tufts.edu/gis/learning-gis/online-tips-and-tutorials/)
-- [Tutorials - Randal Hale](https://www.northrivergeographic.com/tutorials)
-- [Maptime Boston](https://maptimeboston.github.io/)
-- [Learning GIS at the National Center for Atmospheric Research (NCAR)](https://gis.ucar.edu/projects/learning-gis)
+- #### Open Source Geospatial Foundation Live - [OSGeoLive](https://live.osgeo.org/en/index.html)
+
+  - [QGIS Quickstart](https://live.osgeo.org/en/quickstart/qgis_quickstart.html)
+  - [GRASS GIS Quickstart](https://live.osgeo.org/en/quickstart/grass_quickstart.html)
+  - [gvSIG Desktop Quickstart](https://live.osgeo.org/en/quickstart/gvsig_quickstart.html)
+  - [uDig Quickstart](https://live.osgeo.org/en/quickstart/udig_quickstart.html)
+  - [OpenJUMP GIS Quickstart](https://live.osgeo.org/en/quickstart/openjump_quickstart.html)
+  - [SAGA Quickstart](https://live.osgeo.org/en/quickstart/saga_quickstart.html)
+
 
 - #### Esri's Massive Open Online Course Program - [MOOC](https://www.esri.com/training/mooc/)
 
@@ -64,6 +66,15 @@ categories = []
   - [Do-It-Yourself Geo Apps](https://www.esri.com/training/catalog/57660ed7bb54adb30c9454a3/do-it-yourself-geo-apps/)
   - [Free training courses](https://www.esri.com/training/Bookmark/P3KEWETBQ)
 
+- #### Others
+
+  - [Geospatial Analysis - A comprehensive guide - 2018](http://www.spatialanalysisonline.com/index.html)
+  - **GIS Mapping** - [DUSPviz](http://duspviz.mit.edu/tutorials/#gismapping)
+  - [Geographic Information Systems (GIS): Tutorials and Help Resources](https://libguides.mit.edu/c.php?g=176295&p=1161396)
+  - [Online Tips And Tutorials](http://sites.tufts.edu/gis/learning-gis/online-tips-and-tutorials/)
+  - [Tutorials - Randal Hale](https://www.northrivergeographic.com/tutorials)
+  - [Maptime Boston](https://maptimeboston.github.io/)
+  - [Learning GIS at the National Center for Atmospheric Research (NCAR)](https://gis.ucar.edu/projects/learning-gis)
 
 ### Tools
 
@@ -83,6 +94,7 @@ categories = []
 
 ### Medium
 
+- [GIS - articles](https://medium.com/tag/gis/archive)
 - [My data visualizations](https://medium.com/@a.mariel.padilla/my-data-visualizations-3e9a509bb1e4)
 - [Visualizing large scale terrain with open source tools](https://medium.com/@morishuz/visualising-large-scale-terrain-with-open-source-tools-25723a5a5461)
 

@@ -46,6 +46,7 @@ categories = []
 
   **Introduction**
 
+- [Welcome to the Python GDAL/OGR Cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/index.html)
 - [Setting up GDAL](https://tilemill-project.github.io/tilemill/docs/guides/gdal/)
 - [Batch Mode](http://www.processamentodigital.com.br/2012/01/24/ferramentas-ogr-conversao-de-arquivos-kml-para-shapefile-batch-mode/)
 - [Equivalent of .bat in mac os](https://stackoverflow.com/questions/14065069/equivalent-of-bat-in-mac-os)

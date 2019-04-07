@@ -118,5 +118,10 @@ categories = []
 - #### Historical Maps Online [MAPIRE](https://www.arcanum.hu/en/mapire/)
 
 ### Medium
+
+- [WebGIS - articles](https://medium.com/tag/web-gis-services/archive)
 - [Web programming for cartographers — beyond the basics](https://medium.com/@ralucagnicola/web-programming-for-cartographers-beyond-the-basics-cecac632551a)
 - [Introduction to Digital Cartography: GeoJSON and D3.js](https://medium.com/@amy.degenaro/introduction-to-digital-cartography-geojson-and-d3-js-c27f066aa84)
+
+### ScienceDirect
+- [WebGIS - articles](https://www.sciencedirect.com/search/advanced?qs=WebGIS&origin=article&zone=qSearch)

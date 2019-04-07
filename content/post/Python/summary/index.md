@@ -46,6 +46,7 @@ categories = []
 
 **Introduction**
 
+- [PyQGIS Developer Cookbook](https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/index.html)
 - [Automating GIS processes course!](https://automating-gis-processes.github.io/2016/)
 - [Automating GIS processes](https://github.com/Automating-GIS-processes)
 - [Geo libraries in Python (Plotting current fires)](https://blog.goodaudience.com/geo-libraries-in-python-plotting-current-fires-bffef9fe3fb7)

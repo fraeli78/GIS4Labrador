@@ -128,3 +128,4 @@ categories = []
 
 - [LandGIS - Open Land Data Service](https://github.com/Envirometrix/LandGISmaps)
 - [Corine Land Cover now updated for the 2018 reference year](https://land.copernicus.eu/news/corine-land-cover-now-updated-for-the-2018-reference-year)
+- [OS Open Zoomstack Mapping Toolkit Released to Developers for Free - 04](https://www.ordnancesurvey.co.uk/business-and-government/products/os-open-zoomstack.html)

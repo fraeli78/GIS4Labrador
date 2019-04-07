@@ -63,7 +63,8 @@ categories = []
   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [raster2data](https://github.com/thejholloway/raster2data)
   - [GitHub status](https://www.githubstatus.com/)
-
+  - [Building QGIS from source - step by step](http://htmlpreview.github.io/?https://raw.github.com/qgis/QGIS/master/doc/INSTALL.html)
+  
 ### Topics
 [The top used topics on GitHub](https://github.com/topics/)
 
@@ -71,6 +72,8 @@ categories = []
   - [Mapping](https://github.com/topics/mapping)
   - [cheatsheet](https://github.com/topics/cheatsheet)
   - [GIS](https://github.com/topics/gis)
+  - [QGIS](https://github.com/topics/qgis)
+  - [ArcGIS](https://github.com/topics/arcgis)
   - [WebGIS](https://github.com/topics/webgis)
   - [leaflet](https://github.com/topics/leaflet)
   - [Python](https://github.com/topics/python)
