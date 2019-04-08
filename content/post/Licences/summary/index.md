@@ -31,7 +31,7 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Image credit: [**opendefinition**](https://opendefinition.org/licenses/)"
+  caption = "Image credit: [**creativecommons**](https://creativecommons.org/share-your-work/public-domain/freeworks)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -42,16 +42,13 @@ categories = []
 
 +++
 
-**Licence** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+##  **[_Creative Commons_](https://creativecommons.org/share-your-work/public-domain/freeworks)** _provides a range of licenses, each of which grants different rights to use the materials licensed under them. All of these licenses offer more permissions than “all rights reserved.”_
 
 
-**Introduction**
+### Introduction
 
-- [Conformant Licenses](https://opendefinition.org/licenses/)
 - [Understanding Free Cultural Works](https://creativecommons.org/share-your-work/public-domain/freeworks)
 - [Licensing types](https://creativecommons.org/share-your-work/licensing-types-examples)
-- [Linked Data](https://www.w3.org/DesignIssues/LinkedData.html)
-- [Open data in Italia](https://opendataitalia.wordpress.com/tag/tim-berners-lee/)
 - [Choose an open source license](https://choosealicense.com/)
-- [Licensing a repository](https://help.github.com/en/articles/licensing-a-repository)
-- [A whole range of license types](https://choosealicense.com/)
+- [Conformant Licenses](https://opendefinition.org/licenses/)
+- [GitHub - Licensing a repository](https://help.github.com/en/articles/licensing-a-repository)

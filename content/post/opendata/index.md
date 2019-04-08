@@ -79,22 +79,22 @@ categories = []
 - [GeoCommons Archive](http://geocommons.com/)
 - [Airport, airline and route data](https://openflights.org/data.html)
 - [World Development Indicators](https://datacatalog.worldbank.org/dataset/world-development-indicators)
-- [LandGIS - Open Land Data Service](https://github.com/Envirometrix/LandGISmaps)
-- [Corine Land Cover now updated for the 2018 reference year](https://land.copernicus.eu/news/corine-land-cover-now-updated-for-the-2018-reference-year)
 - [Google Public Data](https://www.google.com/publicdata/directory)
 
-### DTM
-- [90 Meter - SRTM Tile Grabber](http://dwtkns.com/srtm/)
-- [30-Meter - SRTM Tile Downloader](http://dwtkns.com/srtm30m/)
+- #### DTM
 
-### Countries
+  - [90 Meter - SRTM Tile Grabber](http://dwtkns.com/srtm/)
+  - [30-Meter - SRTM Tile Downloader](http://dwtkns.com/srtm30m/)
+
+- #### Land Data
+
+  - [LandGIS - Open Land Data Service](https://github.com/Envirometrix/LandGISmaps)
+
+
+### Europe
+
 - [European Data Portal](https://www.europeandataportal.eu/)
-- [UK - Public Geodata](https://wiki.osgeo.org/wiki/Public_Geodata_for_the_UK)
-- [UK - National Statistics](http://geoportal.statistics.gov.uk/)
-- [UK - OS Open Zoomstack Mapping Toolkit Released to Developers for Free - 04](https://www.ordnancesurvey.co.uk/business-and-government/products/os-open-zoomstack.html)
-- [Whanganui District Council’s](http://data.whanganui.govt.nz/)
-- [Zanzibar Social and Environmental Atlas for coastal and marine areas](http://zansea-geonode.org/)
-- [Finland](https://tiedostopalvelu.maanmittauslaitos.fi/tp/kartta?lang=en)
+- [Corine Land Cover](https://land.copernicus.eu/news/corine-land-cover-now-updated-for-the-2018-reference-year)
 
 ### USA
 
@@ -120,7 +120,7 @@ categories = []
 
 
 ### API
-- [Socrata - Data insights, citizen engagement, and performance optimization](https://www.tylertech.com/products/socrata)
+- [Socrata](https://www.tylertech.com/products/socrata)
 - [Zenodo](https://zenodo.org/)
 
 
