@@ -166,7 +166,7 @@ categories = ["Framework"]
 
 ### Medium
 
-- [How to make a simple map app using Ruby on Rails, React and Leaflet, part 1: backend](https://medium.com/@anaharris/how-to-make-a-simple-map-app-using-ruby-on-rails-react-and-leaflet-part-1-backend-cc4d285d9008)
+- [Leaflet - articles](https://medium.com/tag/leaflet/latest)
 
 ### Video
 

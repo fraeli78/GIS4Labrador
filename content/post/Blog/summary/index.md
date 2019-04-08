@@ -47,6 +47,7 @@ categories = []
 
 **Introduction**
 
+- [BLOG List](http://planet.qgis.org/planet/user/4/)
 - [Anita Graser](https://anitagraser.com/)
 - [Spatial Galaxy](http://spatialgalaxy.net/)
 - [Urban Cartography](https://www.spur.org/publications/urbanist-article/2014-11-11/urban-cartography)

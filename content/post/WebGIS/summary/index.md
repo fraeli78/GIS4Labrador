@@ -133,4 +133,7 @@ categories = []
 - [How to use Elasticsearch, Logstash and Kibana to visualise logs in Python in realtime](https://medium.freecodecamp.org/how-to-use-elasticsearch-logstash-and-kibana-to-visualise-logs-in-python-in-realtime-acaab281c9de)
 
 ### ScienceDirect
-- [WebGIS - articles](https://medium.com/tag/gis-web/latest)
+- [WebGIS - articles](https://www.sciencedirect.com/search/advanced?qs=webgis&origin=article&zone=qSearch)
+
+### Stack Overflow
+- [Questions tagged [webgis]](https://stackoverflow.com/search?q=webgis)

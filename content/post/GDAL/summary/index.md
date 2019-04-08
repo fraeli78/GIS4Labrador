@@ -80,3 +80,4 @@ categories = []
 - [Convert CSV/Excel To JSON,XML,HTML,SQL,Flat File,KML,...](http://www.convertcsv.com/)
 - [GDAL Coordinate System Barn Raising](https://gdalbarn.com/)
 - [GRASS GIS](https://grass.osgeo.org/documentation/)
+- [Loading Natural Earth data to PostGIS PostgreSQL](https://gisforthought.com/loading-natural-earth-data-to-postgis-postgresql/)

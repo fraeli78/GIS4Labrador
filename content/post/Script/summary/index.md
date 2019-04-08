@@ -55,3 +55,5 @@ categories = []
 - [Introduction to the geo command line](https://medium.com/devseed/introduction-to-the-geo-command-line-3cc7a66a926e)
 - [Overview of Google Apps Script](https://developers.google.com/apps-script/overview)
 - [python batch geocoding.py](https://gist.github.com/shanealynn/033c8a3cacdba8ce03cbe116225ced31)
+- [USING PROCEDURES FOR BATCH GEOCODING AND OTHER BATCH PROCESSING](http://www.postgresonline.com/journal/archives/390-Using-procedures-for-batch-geocoding-and-other-batch-processing.html)
+- [How to make a PostGIS TIGER Geocoder in Less than 5 Days](https://experimentalcraft.wordpress.com/2017/11/01/how-to-make-a-postgis-tiger-geocoder-in-less-than-5-days/)

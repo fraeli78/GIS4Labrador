@@ -64,3 +64,7 @@ categories = []
 - [CARTO.js](https://carto.com/developers/carto-js/v3/)
 - [CARTO.js Usage Examples](https://carto.com/developers/carto-js/v3/guides/getting-started/)
 - [Read and write to CARTO with the Leaflet.draw plugin](https://carto.com/blog/read-and-write-to-cartodb-with-the-leaflet-draw-plugin/)
+
+- [CARTO - PostgreSQL Workshop](https://github.com/CartoDB/labs-postgresql)
+- [CARTO](https://github.com/CartoDB)
+- [CARTO - Spatial SQL workshop](https://carto.com/help/working-with-data/spatial-sql/#sql-that-applies-to-all-geometries)

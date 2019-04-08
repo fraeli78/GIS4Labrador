@@ -58,6 +58,7 @@ categories = ["Desktop GIS"]
 - [Creating a statistical dot density map with QGIS](http://learngis.uk/creating-statistical-dot-density-map-qgis/)
 - [Geocoding Addresses Tutorial](https://guides.library.ucsc.edu/DSCguides/QGIS_GeocodingAddresses)
 - [Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
+- [Spatial Queries](https://docs.qgis.org/testing/en/docs/training_manual/spatial_databases/spatial_queries.html)
 - Video
   - [Animating markers using MMQGIS](https://www.youtube.com/watch?v=GAPPQaULmGM)
   - [Using the Time Manager plug-in](https://www.youtube.com/watch?v=nHrFOPf1UGw)
@@ -105,7 +106,6 @@ categories = ["Desktop GIS"]
   - [New QGIS and 3D visualization](https://medium.com/the-pointscene-diaries/3d-map-qgis-guide-4688975b8fb4)
   - [CityGML and 3D data in QGIS](https://medium.com/the-pointscene-diaries/qgis-3d-buildings-tutorial-1e0111fcd766)
   - [QGIS magic — Old raster maps to 3D](https://medium.com/@tjukanov/qgis-magic-old-raster-maps-to-3d-ddd0f550e0e8)
-
 
 
 ### News
