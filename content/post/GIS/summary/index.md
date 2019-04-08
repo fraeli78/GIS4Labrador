@@ -92,17 +92,16 @@ categories = []
 
 - [EPSG](http://spatialreference.org/ref/epsg/)
 
-### Medium
+### Distance Learning
+- [UniGIS](https://unigis.net/)
 
+### Medium
 - [GIS - articles](https://medium.com/tag/gis/archive)
 - [My data visualizations](https://medium.com/@a.mariel.padilla/my-data-visualizations-3e9a509bb1e4)
 - [Visualizing large scale terrain with open source tools](https://medium.com/@morishuz/visualising-large-scale-terrain-with-open-source-tools-25723a5a5461)
 
 ### ScienceDirect
-- [GIS - articles](https://www.sciencedirect.com/search/advanced?qs=GIS&origin=article&zone=qSearch)
+- [GIS - articles](https://www.sciencedirect.com/search/advanced?qs=gis&show=25&sortBy=relevance)
 
-### Multidisciplinary Digital Publishing Institute [MDPI](https://www.mdpi.com/)
-- [Generative Street Addresses from Satellite Imagery](https://www.mdpi.com/2220-9964/7/3/84/htm)
-
-### Distance Learning
-- [UniGIS](https://unigis.net/)
+### Stack Overflow
+- [Questions tagged [gis]](https://stackoverflow.com/questions/tagged/gis)
