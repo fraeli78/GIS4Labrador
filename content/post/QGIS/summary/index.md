@@ -57,6 +57,7 @@ categories = ["Desktop GIS"]
 - [How to add Google Maps layers in QGIS 3](https://geogeek.xyz/how-to-add-google-maps-layers-in-qgis-3.html)
 - [Creating a statistical dot density map with QGIS](http://learngis.uk/creating-statistical-dot-density-map-qgis/)
 - [Geocoding Addresses Tutorial](https://guides.library.ucsc.edu/DSCguides/QGIS_GeocodingAddresses)
+- [Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
 - Video
   - [Animating markers using MMQGIS](https://www.youtube.com/watch?v=GAPPQaULmGM)
   - [Using the Time Manager plug-in](https://www.youtube.com/watch?v=nHrFOPf1UGw)
@@ -88,10 +89,11 @@ categories = ["Desktop GIS"]
 - [Qgis4dummies](http://qgis4dummies.wikidot.com/)
 - [QGIS and layered PDF printing](https://medium.com/coseerobe/qgis-e-la-stampa-in-pdf-layered-a067402e175f)
 - [QGIS, reports, modules and widgets, illustrated with a simple use case](https://medium.com/tantotanto/qgis-relazioni-moduli-e-widget-illustrati-con-un-semplice-caso-duso-2dc5ab47770e)
-
+- [Come raccogliere dati geolocalizzati](https://medium.com/coseerobe/come-raccogliere-dati-geolocalizzati-2c36037972aa)
 
 ### Medium
 
+- [QGIS - articles](https://medium.com/tag/qgis/latest)
 - [Introduction to QGIS Time Manage](https://medium.com/@tjukanov/geogiffery-in-a-nutshell-introduction-to-qgis-time-manager-31bb79f2af19)
 - [Geospatial animations with QGIS Atlas](https://medium.com/@tjukanov/geospatial-animations-with-qgis-atlas-995d7ddb2d67)
 - [Map service for QGIS3 without a server](https://medium.com/maptiler/map-service-for-qgis3-without-a-server-51d53aee92cb)

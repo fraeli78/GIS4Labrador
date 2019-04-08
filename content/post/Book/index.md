@@ -55,3 +55,4 @@ categories = []
 - [GIS in Sustainable Urban Planning and Management : A Global Perspective](http://oapen.org/search?identifier=1002491)
 
 - [Mike Dane](https://www.mikedane.com/)
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)

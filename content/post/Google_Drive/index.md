@@ -54,3 +54,4 @@ categories = []
 - [Comprehensive access to spreadsheets](https://developers.google.com/sheets/api/)
 - [Google Sheets Get Distance & Time – GOOGLEMAPS Function](https://www.chicagocomputerclasses.com/google-sheets-google-maps-function-distance-time/)
 - [Shortcuts: Getting Google Drive Data Onto a Map](https://www.youtube.com/watch?v=OS2Nj5G9cGs)
+- [Excel Map Hack](https://www.linkedin.com/pulse/excel-map-hack-john-nelson/)

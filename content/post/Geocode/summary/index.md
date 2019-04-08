@@ -69,3 +69,4 @@ categories = []
 - [Carto Builder](https://carto.com/) and [tutorial](https://datavizforall.org/carto)
 - [Pelias is a modular open-source geocoder using Elasticsearch](https://github.com/pelias/pelias/)
 - [Tutorial to Georeference Google Searches with Python and QGIS](https://www.hatarilabs.com/ih-en/tutorial-to-georeference-google-searches-with-python-and-qgis)
+- [Batch Geocoding with Python](https://janakiev.com/blog/geocoding-in-python/)

@@ -54,3 +54,4 @@ categories = []
 - [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/Download.php)
 - [Introduction to the geo command line](https://medium.com/devseed/introduction-to-the-geo-command-line-3cc7a66a926e)
 - [Overview of Google Apps Script](https://developers.google.com/apps-script/overview)
+- [python batch geocoding.py](https://gist.github.com/shanealynn/033c8a3cacdba8ce03cbe116225ced31)

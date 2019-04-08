@@ -61,7 +61,6 @@ categories = []
 
 - #### [Data Visualization for All](https://www.edx.org/course/data-visualization-all-trinityx-t005x#) - using free tools: Google Sheets, Tableau, Highcharts, Carto, Leaflet, GitHub
 
-
 - #### [Maptime Boston](http://maptimeboston.github.io/)
 
 - #### [So you want to make a map](https://github.com/veltman/learninglunches/tree/master/maps)
@@ -80,8 +79,15 @@ categories = []
   - [jQuery Mapael 2.2.0](https://www.vincentbroute.fr/mapael/)
 
 - #### uMap
-
   - [Create maps with OpenStreetMap](http://umap.openstreetmap.fr/en/)
+
+- ### uMap in Italian
+  - [Cosa è uMap](http://de.straba.us/2015/05/22/tutorial-creare-una-mappa-online-con-fotografie-in-umap-aggiornabile-con-ethercalc/)
+  - [Step by step](https://sites.google.com/view/lucascalzullo/tutorial/umap)
+  - [Tematizzare i poligoni](http://tansignari.opendatasicilia.it/it/latest/ricette/mappe/umap/uMap.html)
+
+- #### ScribbleMap
+  - [The Easiest way to draw and share maps!](https://www.scribblemaps.com/)
 
 - #### Kepler
   - [Kepler](https://kepler.gl/)
@@ -102,6 +108,8 @@ categories = []
 
 - #### ESRI
 
+  - [Make a Demographic Map in 5 Minutes](https://bit.ly/2Ki9CXr)
+  - [2008 General Election Results - ArcGIS online](http://statelocaltryit.maps.arcgis.com/apps/webappviewer/index.html?id=5963b160d84f4a27976fc529076699da)
   - [New Mapping Experience Available for Developers](https://www.esri.com/arcgis-blog/products/developers/mapping/new-mapping-experience-available-for-developers/)
   - [Vector Tiles preview](https://www.esri.com/arcgis-blog/products/arcgis-enterprise/mapping/vector-tiles-preview/?rmedium=redirect&rsource=blogs.esri.com/esri/arcgis/2015/07/20/vector-tiles-preview)
 
@@ -122,6 +130,7 @@ categories = []
 - [WebGIS - articles](https://medium.com/tag/web-gis-services/archive)
 - [Web programming for cartographers — beyond the basics](https://medium.com/@ralucagnicola/web-programming-for-cartographers-beyond-the-basics-cecac632551a)
 - [Introduction to Digital Cartography: GeoJSON and D3.js](https://medium.com/@amy.degenaro/introduction-to-digital-cartography-geojson-and-d3-js-c27f066aa84)
+- [How to use Elasticsearch, Logstash and Kibana to visualise logs in Python in realtime](https://medium.freecodecamp.org/how-to-use-elasticsearch-logstash-and-kibana-to-visualise-logs-in-python-in-realtime-acaab281c9de)
 
 ### ScienceDirect
-- [WebGIS - articles](https://www.sciencedirect.com/search/advanced?qs=WebGIS&origin=article&zone=qSearch)
+- [WebGIS - articles](https://medium.com/tag/gis-web/latest)

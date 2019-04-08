@@ -51,3 +51,6 @@ categories = []
 - [All lessons provided by NCEAS and collaborators here on GitHub.](https://nceas.github.io/oss-2017/lessons.html)
 - [What I Learned Recreating One Chart Using 24 Tools](https://lisacharlotterost.github.io/)
 - [BigData Earth Releases a New Web Mapping, Analysis and Reporting App on Exposure Management](http://gisuser.com/2019/01/bigdata-earth-releases-a-new-web-mapping-analysis-and-reporting-app-on-exposure-management/)
+
+- [Julia for Geospatial part 2 - speed test](http://www.acgeospatial.co.uk/julia-prt2/)
+- [Data Science Skills: Web scraping javascript using python](https://towardsdatascience.com/data-science-skills-web-scraping-javascript-using-python-97a29738353f)
