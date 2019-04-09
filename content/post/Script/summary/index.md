@@ -6,7 +6,7 @@ subtitle = "Site collections"
 summary = "Site collections"
 
 date = 2019-03-15T20:23:19+01:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []

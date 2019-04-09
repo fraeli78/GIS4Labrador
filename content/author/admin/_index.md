@@ -84,5 +84,10 @@ user_groups = ["Researchers", "Visitors"]
    link = "files/CV_Raeli.pdf"
 
 +++
+<br/>
+Over the past 10 years, I had extensive experience in managing nautical/urban cartographic data by GIS.
+I had the pleasure of working for public and private companies as well as a one-year bracket in university research.
 
-I have worked with a lot of the modern technologies that are used in GIS, WebGIS, Database handling, and Python to name a few. In addition, I help manage several data, elaborating statistical reports. Furthermore, I had the pleasure of working for public and private companies, as well as a one-year contract in university research.  
+As modern technology is my passion, I’ve continued to work on projects centered around GIS, WebGIS, Database handling, and Python. Just to name a few.
+
+I'm happily married and I live in Pontedera, Italy. I love nature, travelling, and, walking with my labrador in the parks.

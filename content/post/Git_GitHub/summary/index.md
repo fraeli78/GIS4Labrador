@@ -1,6 +1,6 @@
 +++
 title = "Git&GitHub"
-subtitle = "Site collections"
+subtitle = "Listed on the page, you will find the most comprehensive and free source online"
 
 # Add a summary to display on homepage (optional).
 summary = "Site collections"
@@ -42,31 +42,26 @@ categories = []
   preview_only = false
 +++
 
-  **Git&GitHub** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+## _**[Git](https://git-scm.com/)**_ _is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency._
 
-  **Introduction**
+## _**[GitHub](https://github.com/)**_ _is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside 31 million developers._
 
 
-  - [Nathaniel V. KELSO](https://github.com/nvkelso)
-  - [Mappiamo](https://github.com/mappiamo)
-  - [Vega Edition](https://gramener.github.io/visual-vocabulary-vega/)
-  - [Vega Edition](https://vega.github.io/vega/)
-  - [What is GitHub Pages?](https://pages.github.com/)
-  - [Learn Enough Git to be Useful](https://towardsdatascience.com/learn-enough-git-to-be-useful-281561eef959)
-  - [10 Git Commands You Should Know](https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c)
-  - [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
-  - [T'ansignari e t'appeddiri!](https://github.com/opendatasicilia/tansignari)
-  - [Learning to code in 2019 — the first 3 months](https://medium.freecodecamp.org/learning-to-code-in-2019-the-first-3-months-b3c843204bb7)
-  - [Your unofficial guide to dotfiles on GitHub.](https://dotfiles.github.io/)
-  - [Tackling some Git challenges with the Git-it app](https://github.com/jlord/git-it-electron)
-  - [Connecting to GitHub with SSH](https://help.github.com/en/articles/connecting-to-github-with-ssh)
-  - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-  - [raster2data](https://github.com/thejholloway/raster2data)
-  - [GitHub status](https://www.githubstatus.com/)
-  - [Building QGIS from source - step by step](http://htmlpreview.github.io/?https://raw.github.com/qgis/QGIS/master/doc/INSTALL.html)
-  
+### Tutorials
+
+- ##### How to Use Git and GitHub - [Udacity](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
+
+- ##### Version Control with Git - [Udacity](https://eu.udacity.com/course/version-control-with-git--ud123)
+
+- ##### Learn Git with [Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+
+- ##### Markdown [markup language](https://github.com/adam-p/markdown-here)
+
+- ##### GitHub [status](https://www.githubstatus.com/)
+
+
 ### Topics
-[The top used topics on GitHub](https://github.com/topics/)
+- #### The top used topics on [GitHub](https://github.com/topics/)
 
   - [Cartography](https://github.com/topics/cartography)
   - [Mapping](https://github.com/topics/mapping)
@@ -82,3 +77,19 @@ categories = []
   - [Geocoding](https://github.com/topics/geocoding)
   - [PostGIS](https://github.com/topics/postgis)
   - [SQL](https://github.com/topics/sql)
+
+### Medium
+- [Git - articles](https://medium.com/tag/git/latest)
+- [GitHub - articles](https://medium.com/tag/github/latest)
+- [Learn Enough Git to be Useful](https://towardsdatascience.com/learn-enough-git-to-be-useful-281561eef959)
+- [10 Git Commands You Should Know](https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c)
+- [My data visualizations](https://medium.com/@a.mariel.padilla/my-data-visualizations-3e9a509bb1e4)
+- [Visualizing large scale terrain with open source tools](https://medium.com/@morishuz/visualising-large-scale-terrain-with-open-source-tools-25723a5a5461)
+
+### ScienceDirect
+- [Git - articles](https://www.sciencedirect.com/search/advanced?qs=git&show=25&sortBy=relevance)
+- [GitHub - articles](https://www.sciencedirect.com/search/advanced?qs=github&show=25&sortBy=relevance)
+
+### Stack Overflow
+- [Questions tagged [git]](https://stackoverflow.com/questions/tagged/git)
+- [Questions tagged [github]](https://stackoverflow.com/questions/tagged/github)

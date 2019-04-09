@@ -6,7 +6,7 @@ subtitle = ""
 summary = ""
 
 date = 2019-04-05T15:46:21+02:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -55,3 +55,5 @@ categories = []
 - [Julia for Geospatial part 2 - speed test](http://www.acgeospatial.co.uk/julia-prt2/)
 - [Data Science Skills: Web scraping javascript using python](https://towardsdatascience.com/data-science-skills-web-scraping-javascript-using-python-97a29738353f)
 - [BENCHMARKING OF BIG DATA TECHNOLOGIES FOR INGESTING AND QUERYING GEOSPATIAL DATASETS](https://www.reply.com/en/topics/big-data-and-analytics/Shared%20Documents/DSTL-Report-Data-Reply-2017.pdf)
+- [Vega Edition](https://gramener.github.io/visual-vocabulary-vega/)
+- [Vega Edition](https://vega.github.io/vega/)

@@ -1,6 +1,6 @@
 +++
 title = "GIS"
-subtitle = "Site collections"
+subtitle = "Listed on the page, you will find the most comprehensive and free sources online."
 
 # Add a summary to display on homepage (optional).
 summary = "Site collections"

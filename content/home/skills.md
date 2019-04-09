@@ -1,13 +1,13 @@
 +++
 # Feature/Skill widget.
 widget = "featurette"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 
 title = "Skills"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 61
+weight = 30
 
 # Showcase personal skills or business features.
 #
