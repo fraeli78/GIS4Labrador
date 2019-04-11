@@ -3,7 +3,7 @@ title = "WebGIS"
 subtitle = "Listed on the page, you will find the most comprehensive and free sources online."
 
 # Add a summary to display on homepage (optional).
-summary = "Site collections"
+summary = "The most comprehensive and free sources"
 
 date = 2019-03-15T20:18:07+01:00
 draft = false
@@ -128,12 +128,16 @@ categories = []
 ### Medium
 
 - [WebGIS - articles](https://medium.com/tag/web-gis-services/archive)
+- [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 - [Web programming for cartographers — beyond the basics](https://medium.com/@ralucagnicola/web-programming-for-cartographers-beyond-the-basics-cecac632551a)
 - [Introduction to Digital Cartography: GeoJSON and D3.js](https://medium.com/@amy.degenaro/introduction-to-digital-cartography-geojson-and-d3-js-c27f066aa84)
 - [How to use Elasticsearch, Logstash and Kibana to visualise logs in Python in realtime](https://medium.freecodecamp.org/how-to-use-elasticsearch-logstash-and-kibana-to-visualise-logs-in-python-in-realtime-acaab281c9de)
 
 ### ScienceDirect
 - [WebGIS - articles](https://www.sciencedirect.com/search/advanced?qs=webgis&origin=article&zone=qSearch)
+
+### Source ISPRS - International Journal of Geo-Information
+- [WebGIS — Open Access Journal](https://bit.ly/2UFVH1p)
 
 ### Stack Overflow
 - [Questions tagged [webgis]](https://stackoverflow.com/search?q=webgis)

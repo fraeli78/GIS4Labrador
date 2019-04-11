@@ -1,9 +1,9 @@
 +++
-title = "GoogleMaps"
-subtitle = "Site collections"
+title = "Google Maps"
+subtitle = "Listed on the page, you will find the most comprehensive and free sources"
 
 # Add a summary to display on homepage (optional).
-summary = "Site collections"
+summary = "The most comprehensive and free sources"
 
 date = 2019-03-15T20:21:35+01:00
 draft = false
@@ -31,7 +31,7 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Illustrator**](https://it.wikipedia.org/wiki/Adobe_Illustrator#/media/)"
+  caption = "Image credit: [**Wikipedia**](https://en.wikipedia.org/wiki/Google_Maps#/media/File:GoogleMaps_logo.svg)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -41,28 +41,32 @@ categories = []
   preview_only = false
 +++
 
-  **GoogleMaps** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+## _**[Google Maps](https://www.google.com/maps)**_ _is a web mapping service developed by Google. It offers satellite imagery, aerial photography, street maps, 360° panoramic views of streets, real-time traffic conditions, and route planning for traveling by foot, car, bicycle and air, or public transportation -_ *[Wikipedia](https://en.wikipedia.org/wiki/Google_Maps)*.
 
-  **Introduction**
 
-- [Maps Mania](http://googlemapsmania.blogspot.com/)
+
+### Tutorials
+- Become a Google mapping [expert](https://www.google.com/earth/outreach/learn/)
+- Earth Engine Data [Catalog](https://developers.google.com/earth-engine/datasets/)
+- Google Maps APIs byGoogle - [Udacity](https://eu.udacity.com/course/google-maps-apis--ud864)
+- Point Map with Google My Maps - [Datavizforall](https://datavizforall.org/mymaps.html)
+- How should I format my geocoder [queries?](https://developers.google.com/maps/faq#geocoder_queryformat)
+- Geocoding + Location Columns in [Google Fusion Tables](https://vimeo.com/175617942)
+- Time series on Landsat data with [Google Earth Engine](http://www.acgeospatial.co.uk/time-series-on-landsat-data-gee/)
+
+### Tools
+- [Get Lat Long](https://www.latlong.net/)
+
+### Medium
+- [GoogleMaps - articles](https://medium.com/tag/google-maps)
 - [Using Google Maps costs more than you think.](https://medium.com/swlh/using-google-maps-costs-more-than-you-think-d62c7d857b2d)
-- [Place Autocomplete Address Form](https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-addressform)
+- [Using Google Maps API (v3) with Rails (5.2)](https://medium.com/@pjbelo/using-google-maps-api-v3-with-rails-5-2-b066a4b2cf14)
 - [Visualizing Geographic Statistical Data with Google Maps](https://medium.com/@nholmber/gmaps-data-visualization-2b7cc685012d)
 - [Prototyping a Smoother Map](https://medium.com/google-design/google-maps-cb0326d165f5?fbclid=IwAR1FJ3KLMEsrJHCw3IHkXdUXaK0AwB0si5-MvGwrvOhtvoMcrqtPLQI6lCw)
-- [Come erano Italia ed Europa nell'800, ecco Google Maps 'vintage'](http://www.ansa.it/sito/notizie/tecnologia/software_app/2019/02/09/_9beedd80-390e-4653-bb2b-7f0a67093bb6.html)
-- [Gmaps Heatmap Layer Plugin](https://www.patrick-wied.at/static/heatmapjs/plugin-gmaps-layer.html)
-- [Geocoding Tutorial using Google Fusion Tables](https://mdl.library.utoronto.ca/sites/default/files/geocoding-tutorial-using-google-fusion-tables.pdf)
-- [Fusion Tables Workshop](https://fusiontables.google.com/DataSource?docid=1Lae-86jeUDLmA6-8APDDqazlTOy1GsTXh28DAkw#rows:id=1)
-- [How to quickly add latitude and longitude coordinates to a spreadsheet using Google Sheets](https://www.youtube.com/watch?v=ozjSCoJGgVc&feature=youtu.be)
-- [Places Search Box](https://developers.google.com/maps/documentation/javascript/examples/places-searchbox)
-- [Geocoding + Location Columns in Google Fusion Tables](https://vimeo.com/175617942)
-- [Google Maps APIs byGoogle](https://eu.udacity.com/course/google-maps-apis--ud864)
-- [Using Google Maps API (v3) with Rails (5.2)](https://medium.com/@pjbelo/using-google-maps-api-v3-with-rails-5-2-b066a4b2cf14)
-- [Point Map with Google My Maps](https://datavizforall.org/mymaps.html)
-- [Sentinel-2 MSI: MultiSpectral Instrument, Level-2A](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR)
-- [Time series on Landsat data with Google Earth Engine](http://www.acgeospatial.co.uk/time-series-on-landsat-data-gee/)
-- [How to Build a Custom Google Map Using Addresses in Google Sheets](https://www.youtube.com/watch?v=W0L2DW-6HXs&feature=youtu.be)
-- [Mapping from a Google Spreadsheet](https://www.google.com/earth/outreach/learn/mapping-from-a-google-spreadsheet/)
-- [Become a Google mapping expert](https://www.google.com/earth/outreach/learn/)
-- [How to Make a Google Map from Excel - Tutoria](https://www.youtube.com/watch?v=QpoFpIaSjdc)
+
+
+### ScienceDirect
+- [GoogleMaps - articles](https://www.sciencedirect.com/search/advanced?qs=google%20maps&show=25&sortBy=relevance)
+
+### Stack Overflow
+- [Questions tagged [google-maps]](https://stackoverflow.com/questions/tagged/google-maps)

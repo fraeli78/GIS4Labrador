@@ -1,9 +1,9 @@
 +++
 title = "Blog"
-subtitle = "Site collections"
+subtitle = "Listed on the page, you will find the most comprehensive and free sources"
 
 # Add a summary to display on homepage (optional).
-summary = "Site collections"
+summary = "The most comprehensive and free sources"
 
 date = 2019-03-15T20:25:24+01:00
 draft = false
@@ -38,69 +38,47 @@ categories = []
   focal_point = "Top"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
 +++
 
-**Blog** makes it easy to create a beautiful map for free using QGIS. Customize anything on your map with widgets, themes, and language packs.
+## _There are a ton of amazing blog online._
 
 
 
-**Introduction**
+#### Blog list
 
-- [BLOG List](http://planet.qgis.org/planet/user/4/)
 - [Anita Graser](https://anitagraser.com/)
 - [Spatial Galaxy](http://spatialgalaxy.net/)
 - [Urban Cartography](https://www.spur.org/publications/urbanist-article/2014-11-11/urban-cartography)
-- [MAPPABLE CHEAT-SHEET](https://github.com/AchimTack/awesome-carto-tips)
 - [GeoSpatialWorld](https://www.geospatialworld.net/blogs/?utm_source=top-menu-moved-bottom)
-- [Maps & Cartography](https://gisgeography.com/category/maps-cartography/)
+- [GIS Geography](https://gisgeography.com/category/maps-cartography/)
 - [Adventures In Mapping](https://adventuresinmapping.com/)
 - [Trajectory](http://trajectorymagazine.com/tag/gis/)
-- [GISuser](http://blog.gisuser.com/)
+- [GIS User](http://blog.gisuser.com/)
 - [Maps Mania](http://scrubbrush-maprap.blogspot.com/)
 - [City Lab](https://www.citylab.com/posts/maps/)
 - [Google Maps](https://www.blog.google/products/maps/)
 - [Map of the week](https://mapoftheweek.blogspot.com/)
 - [Carto Talk](http://www.cartotalk.com/)
-- [Learn practical web skills courses](http://www.raybo.org/)
-- [GIS User](http://gisuser.com/)
 - [Revolutionary GIS](https://revolutionarygis.wordpress.com/)
-- [J-Reading - Journal of Research and Didactics in Geography](http://www.j-reading.org/index.php/geography/index)
-- [World of Satellites at your fingertips](https://satbeams.com/)
 - [Matthew Toro](https://matthewtoro.com/blog/)
-- [Helpful Digital](https://helpfuldigital.com/)
-- [Lutra consulting](https://www.lutraconsulting.co.uk/)
-- [The Most Densely Populated Square Kilometre in 39 European Countries](http://www.statsmapsnpix.com/2018/01/the-most-densely-populated-square.html)
-- [GIS for Thought](https://gisforthought.com/loading-natural-earth-data-to-postgis-postgresql/)
+- [Lutra consulting](https://www.lutraconsulting.co.uk/blog/)
+- [Alasdair Rae](http://www.statsmapsnpix.com/)
+- [GIS for Thought](https://gisforthought.com/)
 - [Paul Ramsey](http://blog.cleverelephant.ca/writings)
-- [SpatialDB Advisor](http://spatialdbadvisor.com/postgis_tips_tricks)
-- [Il mondo del web a 360 gradi](https://www.luigisabbetti.it/)
-- [VisiData: il coltellino svizzero per i dati, che probabilmente non conosci](https://medium.com/tantotanto/visidata-il-coltellino-svizzero-per-i-dati-che-probabilmente-non-conosci-2209ffd4fa39)
-- [LEARN GIS](http://learngis.uk/)
-- [ATLANTE STATISTICO DEI COMUNI EDIZIONE 2019](https://www.istat.it/it/archivio/227189)
-- [Training Materials for Classes - Datapolitan](http://training.datapolitan.com/#intro-open-data)
-- [Loading Open Addresses Data into PostGIS](https://experimentalcraft.wordpress.com/)
-- [Digital Resources](https://oup-arc.com/)
-- [Earth Observation and GIS blog categories](http://www.acgeospatial.co.uk/)
-- [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
+- [SpatialDB Advisor](http://spatialdbadvisor.com/)
+- [Learn GIS](http://learngis.uk/)
+- [Earth Observation and GIS blog categories](http://gis.acgeospatial.co.uk/)
 - [Open Geo Hub](https://opengeohub.org/)
 - [Geo Republic](https://georepublic.info/en/blog/)
-- [Association for Geographic Information, promoting geospatial ...](https://www.agi.org.uk/)
 - [Robin's Blog](http://blog.rtwilson.com/category/academic/gis/)
-- [North River Geographic Systems, Inc](https://www.northrivergeographic.com/)
-- [Getpostman](https://blog.getpostman.com/)
-- [Geotoolsnews](http://geotoolsnews.blogspot.com/)
-- [THE BLOG OF A DATA SCIENTIST'S JOURNEY](https://www.jddata22.com/)
-- [gisinfrastrutture](http://www.gisinfrastrutture.it/)
-- [itopen](https://www.itopen.it/)
-- [SPATIAL THOUGHTS](https://spatialthoughts.com/)
-- [OpenGIS CH](https://new.opengis.ch/tech-blog/)
-- [ISPRS International Journal of Geo-Information — Open Access Journal](https://www.mdpi.com/journal/ijgi)
-- [Source is an OpenNews project](https://source.opennews.org/search/?q=GIS)
-- [Learn to visualize your data like an expert with these practical how-tos for presentation, analysis, and understanding](https://flowingdata.com/category/tutorials/)
+- [North River Geographic Systems, Inc](https://www.northrivergeographic.com/blog)
+- [GeoTools news](http://geotoolsnews.blogspot.com/)
+- [Spatial Thoughts](https://spatialthoughts.com/blog/)
+- [OpenGIS CH](https://new.opengis.ch/blog/)
 - [Joshua Stevens](http://www.joshuastevens.net/blog/)
 - [Mapzen](https://www.mapzen.com/blog/)
 - [Storytelling with Data](http://www.storytellingwithdata.com/)
 - [Spatial {Query} Lab](http://spatialquerylab.com/news/)
-- [geospatial technologies and practices](http://blog.geomusings.com/author/billdollins/)
+- [Bill Dollins](http://blog.geomusings.com/author/billdollins/)
 - [gvSIG blog](https://blog.gvsig.org/)

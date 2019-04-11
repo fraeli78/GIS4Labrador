@@ -3,7 +3,7 @@ title = "PostGIS"
 subtitle = "Listed on the page, you will find the most comprehensive and free sources online."
 
 # Add a summary to display on homepage (optional).
-summary = "Site collections"
+summary = "The most comprehensive and free sources."
 
 date = 2019-03-15T20:16:35+01:00
 draft = false
@@ -73,6 +73,8 @@ categories = []
 - #### Common Spatial [Queries](https://gist.github.com/clhenrick/ebc8dc779fb6f5ee6a88#common-spatial-queries)
 - #### PostGIS Terminal [Examples](https://giswiki.hsr.ch/PostGIS_Terminal_Examples)
 - #### Tips and Tricks for Writing PostGIS Spatial [Queries](https://www.bostongis.com/downloads/oscon2009/Oscon2009_PostGISTips.pdf)
+- #### Loading Natural Earth data to [PostGIS](https://gisforthought.com/loading-natural-earth-data-to-postgis-postgresql/)
+
 
 ### Extensions
 - [pgRouting](https://live.osgeo.org/archive/10.5/en/quickstart/pgrouting_quickstart.html)

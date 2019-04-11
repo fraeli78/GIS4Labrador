@@ -4,7 +4,7 @@ subtitle = "Listed on the page, you will find the most comprehensive and free so
 
 
 # Add a summary to display on homepage (optional).
-summary = "Site collections"
+summary = "The most comprehensive and free sources"
 
 date = 2019-03-15T10:19:54+01:00
 draft = false

@@ -3,7 +3,7 @@ title = "Git&GitHub"
 subtitle = "Listed on the page, you will find the most comprehensive and free source online"
 
 # Add a summary to display on homepage (optional).
-summary = "Site collections"
+summary = "The most comprehensive and free sources"
 
 date = 2019-03-15T20:24:27+01:00
 draft = false

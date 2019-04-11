@@ -6,7 +6,7 @@ subtitle = "Free and Open Source Software for Geospatial"
 summary = "Site collections"
 
 date = 2019-03-15T20:17:57+01:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -45,7 +45,7 @@ categories = []
 
   **Introduction**
 
-- [OSGeo Annual General Meeting 2018](https://www.osgeo.org/resources/agm2018/)
+
 - [Boston 2017](https://2017.foss4g.org/post_conference/)
 - [FOSS for GIS video tutorials and screencasts](https://wiki.osgeo.org/wiki/FOSS_for_GIS_video_tutorials_and_screencasts)
 - [Events History](https://www.osgeo.org/history/events-history/)

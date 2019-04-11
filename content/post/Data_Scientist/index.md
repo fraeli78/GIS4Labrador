@@ -57,3 +57,5 @@ categories = []
 - [BENCHMARKING OF BIG DATA TECHNOLOGIES FOR INGESTING AND QUERYING GEOSPATIAL DATASETS](https://www.reply.com/en/topics/big-data-and-analytics/Shared%20Documents/DSTL-Report-Data-Reply-2017.pdf)
 - [Vega Edition](https://gramener.github.io/visual-vocabulary-vega/)
 - [Vega Edition](https://vega.github.io/vega/)
+- [Learn to visualize your data like an expert with these practical how-tos for presentation, analysis, and understanding](https://flowingdata.com/category/tutorials/)
+- [THE BLOG OF A DATA SCIENTIST'S JOURNEY](https://www.jddata22.com/)

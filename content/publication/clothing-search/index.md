@@ -39,7 +39,7 @@ tags = []
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = ["internal-project"]
@@ -63,7 +63,7 @@ links = [{name = "Custom Link", url = "http://example.org"}]
 math = true
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"

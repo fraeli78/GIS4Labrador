@@ -3,7 +3,7 @@ title = "Licence"
 subtitle = "Listed on the page, you will find the most comprehensive and free sources online."
 
 # Add a summary to display on homepage (optional).
-summary = ""
+summary = "The most comprehensive and free sources"
 
 date = 2019-03-15T20:22:05+01:00
 draft = false

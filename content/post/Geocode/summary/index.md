@@ -1,12 +1,12 @@
 +++
 title = "Geocode"
-subtitle = ""
+subtitle = "Listed on the page, you will find the most comprehensive and free sources"
 
 # Add a summary to display on homepage (optional).
 summary = "Site collections"
 
 date = 2019-03-15T20:22:25+01:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -46,27 +46,15 @@ categories = []
 
 **Introduction**
 
-- [Geocode Locations into Coordinates with US Census or Google](https://datavizforall.org/geocode.html)
-- [QGIS - How to Geocode Addresses Using QGIS](https://www.gislounge.com/how-to-geocode-addresses-using-qgis/)
+
 - [How to quickly add latitude and longitude coordinates to a spreadsheet using Google Sheets](https://www.gislounge.com/populate-cell-zip-code-based-address-google-sheets/)
-- [Python Geocode](https://github.com/DenisCarriere/geocoder)
-- ESRI
-  - [ArcGIS PRO](https://pro.arcgis.com/en/pro-app/help/data/geocoding/introduction-to-finding-places-on-a-map.htm)
-  - [Geocode a table of addresses](https://pro.arcgis.com/en/pro-app/help/data/geocoding/tutorial-geocode-a-table-of-addresses.htm)
-  - [ArcGIS Geocoding Tutorial Data](http://www.arcgis.com/home/item.html?id=ca11a1f63e9a40c781b4071fdb7b017a)
-  - [Introduction to locator roles](https://pro.arcgis.com/en/pro-app/help/data/geocoding/introduction-to-locator-roles.htm)
-- [Batch CSV Geocoding in Python with Google Maps API](https://www.shanelynn.ie/batch-geocoding-in-python-with-google-geocoding-api/)
-- [Developer Guide - Google Maps](https://developers.google.com/maps/documentation/geocoding/intro)
-- [This is overpass turbo, a web-based data filtering tool for OpenStreetMap.](http://overpass-turbo.eu/)
-- [U.S. Census Geocoder](https://www.census.gov/geo/maps-data/data/geocoder.html/)
-- [Welcome to Geocoder U.S. Census Geocoder](https://geocoding.geo.census.gov/geocoder)
-- [Google Class Geocoder](https://developers.google.com/apps-script/reference/maps/geocoder)
-- [Demo Geocoder US Census or Google](https://github.com/datavizforall/google-sheets-geocoder)
-- [Google Sheets Geocoding Macro](https://github.com/nuket/google-sheets-geocoding-macro)
-- [How should I format my geocoder queries to maximise the number of successful requests?](https://developers.google.com/maps/faq#geocoder_queryformat)
+
+
+
+
+- [U.S. Census Geocoder](https://geocoding.geo.census.gov/)
+
 - [Batchgeo](https://batchgeo.com/) and [tutorial](https://datavizforall.org/batchgeo)
-- [Google My Maps](https://www.google.com/maps/d/) and [tutorial](https://datavizforall.org/mymaps)
 - [Carto Builder](https://carto.com/) and [tutorial](https://datavizforall.org/carto)
 - [Pelias is a modular open-source geocoder using Elasticsearch](https://github.com/pelias/pelias/)
-- [Tutorial to Georeference Google Searches with Python and QGIS](https://www.hatarilabs.com/ih-en/tutorial-to-georeference-google-searches-with-python-and-qgis)
 - [Batch Geocoding with Python](https://janakiev.com/blog/geocoding-in-python/)

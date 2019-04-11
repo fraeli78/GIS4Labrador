@@ -3,7 +3,7 @@ title = "ArcGIS"
 subtitle = "Listed on the page, you will find the most comprehensive and free sources online."
 
 # Add a summary to display on homepage (optional).
-summary = "Site collections"
+summary = "The most comprehensive and free sources"
 
 date = 2019-03-15T20:15:39+01:00
 draft = false
@@ -59,7 +59,7 @@ categories = ["Desktop GIS"]
 - [Exercises and data for the book](https://drive.google.com/drive/u/0/folders/0B4-WOURDTCKJbko2a04xREE2Y3M)
 - [Finding Data on ArcGIS Hub Open Data Portal](https://spatialreserves.wordpress.com/2018/12/10/finding-data-on-arcgis-hub-open-data-portal/)
 - [5 Ways to Make Your Overview Map Sizzling Hot](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/5-ways-to-make-your-overview-map-sizzling-hot/)
-
+- [Geocoding Addresses Tutorial](https://pro.arcgis.com/en/pro-app/help/data/geocoding/introduction-to-finding-places-on-a-map.htm)
 
 ### Medium
 - [ArcGIS - articles](https://medium.com/tag/arcgis/latest)

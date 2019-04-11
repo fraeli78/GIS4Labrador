@@ -3,7 +3,7 @@ title = "GIS"
 subtitle = "Listed on the page, you will find the most comprehensive and free sources online."
 
 # Add a summary to display on homepage (optional).
-summary = "Site collections"
+summary = "The most comprehensive and free sources"
 
 date = 2019-03-15T20:15:14+01:00
 draft = false
@@ -44,9 +44,13 @@ categories = []
 
 ## _A geographic information system (GIS) is a framework for gathering, managing, and analyzing data - [ESRI](https://www.esri.com/en-us/what-is-gis/overview)._
 
+### Introduction
+
+  - [What is GIS?](https://www.ordnancesurvey.co.uk/support/understanding-gis/what-is-gis.html)
+  - [What is GIS data?](https://www.ordnancesurvey.co.uk/support/understanding-gis/what-is-gis-data.html)
+  - [Working with GIS data](https://www.ordnancesurvey.co.uk/support/understanding-gis/using-gis-data.html)
 
 ### Tutorials
-
 - #### Open Source Geospatial Foundation Live - [OSGeoLive](https://live.osgeo.org/en/index.html)
 
   - [QGIS Quickstart](https://live.osgeo.org/en/quickstart/qgis_quickstart.html)
@@ -55,7 +59,6 @@ categories = []
   - [uDig Quickstart](https://live.osgeo.org/en/quickstart/udig_quickstart.html)
   - [OpenJUMP GIS Quickstart](https://live.osgeo.org/en/quickstart/openjump_quickstart.html)
   - [SAGA Quickstart](https://live.osgeo.org/en/quickstart/saga_quickstart.html)
-
 
 - #### Esri's Massive Open Online Course Program - [MOOC](https://www.esri.com/training/mooc/)
 
@@ -77,9 +80,9 @@ categories = []
   - [Learning GIS at the National Center for Atmospheric Research (NCAR)](https://gis.ucar.edu/projects/learning-gis)
 
 ### Tools
-
 - The best tools, resources and technologies for [mapping](https://dataviz.tools/category/mapping/)
 - GeoHack - [hosting environment of land surfaces on Earth](https://tools.wmflabs.org/geohack/geohack.php?params=___N____E)
+- Command line tool and library for transferring data with URLs - [CURL](https://curl.haxx.se/)
 - Convert City map into hexagonal grid:
 
   - [H3 Core](https://uber.github.io/h3/#/documentation/overview/introduction)
@@ -89,11 +92,7 @@ categories = []
   - [spatialite](https://www.gaia-gis.it/fossil/libspatialite/wiki?name=tesselations-4.0)
 
 ### EPSG - European Petroleum Survey Group
-
-- [EPSG](http://spatialreference.org/ref/epsg/)
-
-### Distance Learning
-- [UniGIS](https://unigis.net/)
+- [OGC](http://www.opengeospatial.org/docs/is)
 
 ### Medium
 - [GIS - articles](https://medium.com/tag/gis/archive)
@@ -102,6 +101,18 @@ categories = []
 
 ### ScienceDirect
 - [GIS - articles](https://www.sciencedirect.com/search/advanced?qs=gis&show=25&sortBy=relevance)
+
+### Source - OpenNews project
+- [Mapping - articles](https://source.opennews.org/articles/tags/mapping/)
+
+### Source ISPRS - International Journal of Geo-Information
+- [GIS — Open Access Journal](https://bit.ly/2Z1mioM)
+
+### J-Reading - Journal of Research and Didactics in Geography
+- [Home](http://www.j-reading.org/index.php/geography/index)
+
+### Distance Learning
+- [UniGIS](https://unigis.net/)
 
 ### Stack Overflow
 - [Questions tagged [gis]](https://stackoverflow.com/questions/tagged/gis)
