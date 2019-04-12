@@ -6,7 +6,7 @@ subtitle = "Free and Open Source Software for Geospatial"
 summary = "Site collections"
 
 date = 2019-03-15T20:17:57+01:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []

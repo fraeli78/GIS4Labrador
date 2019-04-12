@@ -1,9 +1,9 @@
 +++
 title = "Web development"
-subtitle = "Listed on the page, you will find the most comprehensive and free sources online."
+subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = "The most comprehensive and free sources."
+summary = "Useful free sources online."
 
 date = 2019-04-12T10:40:10+02:00
 draft = false

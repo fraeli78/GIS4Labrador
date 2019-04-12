@@ -1,9 +1,9 @@
 +++
 title = "Blog"
-subtitle = "Listed on the page, you will find the most comprehensive and free sources"
+subtitle = ""
 
 # Add a summary to display on homepage (optional).
-summary = "The most comprehensive and free sources"
+summary = "A great blog list"
 
 date = 2019-03-15T20:25:24+01:00
 draft = false

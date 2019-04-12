@@ -41,7 +41,7 @@ It will be very useful in daily activities for various reasons such as:
  - Publish your site for free.
  - To store your projects.
 
-The most comprehensive and **free sources** can be found [here](http://localhost:1313/post/git_github/summary/).
+You can find useful tutorials [here](http://localhost:1313/post/git_github/summary/).
 
 
 ### <center>OSGeo & ESRI</center>
@@ -67,11 +67,11 @@ The ability to manage WebGIS is undoubtedly the most requested capability as it 
 You can find a great overview [here](http://localhost:1313/post/webgis/summary/).
 
 I suggest you learn [Leaflet](https://leafletjs.com/) as it is quite simple and there are a lot of documentations for different scenarios.
-The most comprehensive and **free sources** can be found [here](http://localhost:1313/post/leaflet/summary/).
+The most comprehensive and free sources can be found [here](http://localhost:1313/post/leaflet/summary/).
 
 ### <center>Python</center>
 There are excellent courses that will allow you to learn step by step.
-The most comprehensive and **free sources** can be found [here](http://localhost:1313/post/python/summary/).
+You can find a great overview [here](http://localhost:1313/post/python/summary/).
 
 
 ### <center>Open Data</center>
