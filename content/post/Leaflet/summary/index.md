@@ -41,7 +41,7 @@ categories = ["Framework"]
   preview_only = false
 +++
 
-## _[Leaflet](https://leafletjs.com/) an open-source JavaScript library for mobile-friendly interactive maps created by [Vladimir Agafonkin](https://agafonkin.com/)._
+## [Leaflet](https://leafletjs.com/) an open-source JavaScript library for mobile-friendly interactive maps created by [Vladimir Agafonkin](https://agafonkin.com/).
 
 
 ### Tutorials

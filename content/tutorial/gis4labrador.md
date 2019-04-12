@@ -81,7 +81,7 @@ You can find them [here](http://localhost:1313/post/opendata/).
 
 ### <center>License</center>
 Last but not least. Whenever you look for a source on the internet it will be useful to know if it is usable or not.
-Useful guides can be found [here](http://localhost:1313/post/licences/summary/).
+Guides can be found [here](http://localhost:1313/post/licences/summary/).
 
 
 ###  <center>Final Notes</center>

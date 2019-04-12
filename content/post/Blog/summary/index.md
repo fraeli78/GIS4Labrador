@@ -41,7 +41,7 @@ categories = []
   preview_only = false
 +++
 
-## _There are a ton of amazing blogs online._
+## There are a ton of amazing blogs online.
 
 
 

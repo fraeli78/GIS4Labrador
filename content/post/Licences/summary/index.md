@@ -1,5 +1,5 @@
 +++
-title = "Licence"
+title = "Licenses"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
@@ -42,7 +42,7 @@ categories = []
 
 +++
 
-##  **[_Creative Commons_](https://creativecommons.org/share-your-work/public-domain/freeworks)** _provides a range of licenses, each of which grants different rights to use the materials licensed under them. All of these licenses offer more permissions than “all rights reserved.”_
+##  **[Creative Commons](https://creativecommons.org/share-your-work/public-domain/freeworks)** provides a range of licenses, each of which grants different rights to use the materials licensed under them. All of these licenses offer more permissions than “all rights reserved.”
 
 
 ### Introduction

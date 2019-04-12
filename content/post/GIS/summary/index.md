@@ -42,7 +42,7 @@ categories = []
   preview_only = false
 +++
 
-## _A geographic information system (GIS) is a framework for gathering, managing, and analyzing data - [ESRI](https://www.esri.com/en-us/what-is-gis/overview)._
+## A geographic information system (GIS) is a framework for gathering, managing, and analyzing data - [ESRI](https://www.esri.com/en-us/what-is-gis/overview).
 
 
 ### Tutorials

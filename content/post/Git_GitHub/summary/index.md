@@ -42,9 +42,9 @@ categories = []
   preview_only = false
 +++
 
-## _**[Git](https://git-scm.com/)**_ _is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency._
+## **[Git](https://git-scm.com/)** is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
-## _**[GitHub](https://github.com/)**_ _is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside 31 million developers._
+## **[GitHub](https://github.com/)** is a development platform inspired by the way you work. From open source to business, you can host and review code, manage projects, and build software alongside 31 million developers.
 
 
 ### Tutorials

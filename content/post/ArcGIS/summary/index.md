@@ -41,7 +41,7 @@ categories = ["Desktop GIS"]
   preview_only = false
 +++
 
-##  _**[ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview)**_ _offers unique capabilities and flexible licensing for applying location-based analytics to your business practices._
+##  **[ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview)** offers unique capabilities and flexible licensing for applying location-based analytics to your business practices.
 
 
 ### Introduction

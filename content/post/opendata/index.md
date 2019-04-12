@@ -44,7 +44,7 @@ categories = []
 +++
 
 
-##  **_‘Open knowledge’_** _is any content, information or data that people are free to use, re-use and redistribute — without any legal, technological or social restriction - **[OKI](https://okfn.org/opendata/)**._
+##  **‘Open knowledge’** is any content, information or data that people are free to use, re-use and redistribute — without any legal, technological or social restriction - **[OKI](https://okfn.org/opendata/)**.
 
 
 ### Introduction

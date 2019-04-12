@@ -41,7 +41,7 @@ categories = []
   preview_only = false
 +++
 
-## **_Web development_** _is the work involved in developing a web site for the Internet (World Wide Web) or an intranet (a private network)_ - *[Wikipedia](https://en.wikipedia.org/wiki/Web_development).*
+## **Web development** is the work involved in developing a web site for the Internet (World Wide Web) or an intranet (a private network) - [Wikipedia](https://en.wikipedia.org/wiki/Web_development).
 
 ### Cheat Sheets
 

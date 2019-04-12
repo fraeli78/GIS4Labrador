@@ -41,7 +41,7 @@ categories = []
   preview_only = false
 +++
 
-##  **_[Python](https://www.python.org/)_** _is a programming language that lets you work quickly and integrate systems more effectively._
+##  **[Python](https://www.python.org/)** is a programming language that lets you work quickly and integrate systems more effectively.
 
 ### Introduction
 - [What exactly can you do with Python? Here are Python’s 3 main applications.](https://medium.freecodecamp.org/what-can-you-do-with-python-the-3-main-applications-518db9a68a78)

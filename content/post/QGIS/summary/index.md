@@ -41,7 +41,7 @@ categories = ["Desktop GIS"]
   preview_only = false
 +++
 
-##  _**[QGIS](https://qgis.org/en/site/)**_ _- Free and Open Source Geographic Information System to create, edit, visualise, analyse and publish geospatial information on Windows, Mac, Linux, BSD (Android coming soon)._
+##  **[QGIS](https://qgis.org/en/site/)** - Free and Open Source Geographic Information System to create, edit, visualise, analyse and publish geospatial information on Windows, Mac, Linux, BSD (Android coming soon). 
 
 
 ### Introduction

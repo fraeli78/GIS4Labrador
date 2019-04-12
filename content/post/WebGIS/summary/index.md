@@ -41,7 +41,7 @@ categories = []
   preview_only = false
 +++
 
-##  _**WebGIS**_ _allows the sharing of GIS data, maps, and spatial processing across private and public computer networks._ ***[John P. Wilson](https://gistbok.ucgis.org/bok-topics/web-gis)***
+##  **WebGIS** allows the sharing of GIS data, maps, and spatial processing across private and public computer networks. [John P. Wilson](https://gistbok.ucgis.org/bok-topics/web-gis)
 
 
 ### Tutorials

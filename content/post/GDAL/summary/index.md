@@ -42,7 +42,7 @@ categories = []
   preview_only = false
 +++
 
-## _**[GDAL](https://www.gdal.org/)**_ _is a translator library for raster and vector geospatial data formats that is released under an X/MIT style Open Source license by the Open Source Geospatial Foundation._
+## **[GDAL](https://www.gdal.org/)** is a translator library for raster and vector geospatial data formats that is released under an X/MIT style Open Source license by the Open Source Geospatial Foundation.
 
 
 ### Tutorials

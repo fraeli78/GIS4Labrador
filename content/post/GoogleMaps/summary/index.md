@@ -41,7 +41,7 @@ categories = []
   preview_only = false
 +++
 
-## _**[Google Maps](https://www.google.com/maps)**_ _is a web mapping service developed by Google. It offers satellite imagery, aerial photography, street maps, 360° panoramic views of streets, real-time traffic conditions, and route planning for traveling by foot, car, bicycle and air, or public transportation -_ *[Wikipedia](https://en.wikipedia.org/wiki/Google_Maps)*.
+## **[Google Maps](https://www.google.com/maps)** is a web mapping service developed by Google. It offers satellite imagery, aerial photography, street maps, 360° panoramic views of streets, real-time traffic conditions, and route planning for traveling by foot, car, bicycle and air, or public transportation - [Wikipedia](https://en.wikipedia.org/wiki/Google_Maps).
 
 
 

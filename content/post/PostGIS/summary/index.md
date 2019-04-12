@@ -41,7 +41,7 @@ categories = []
   preview_only = false
 +++
 
-##  **_[PostGIS](https://postgis.net/)_** _is a spatial database extender for [PostgreSQL](https://www.postgresql.org/) object-relational database. It adds support for geographic objects allowing location queries to be run in SQL..._
+##  **[PostGIS](https://postgis.net/)** is a spatial database extender for [PostgreSQL](https://www.postgresql.org/) object-relational database. It adds support for geographic objects allowing location queries to be run in SQL...
 
 ### Introduction
 
