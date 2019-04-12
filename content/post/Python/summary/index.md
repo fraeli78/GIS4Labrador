@@ -89,7 +89,7 @@ categories = []
 - [Geopy](https://anaconda.org/conda-forge/geopy)
 
 ### Medium
-
+- [Python - articles](https://medium.com/tag/python)
 - [Geo libraries in Python (Plotting current fires)](https://blog.goodaudience.com/geo-libraries-in-python-plotting-current-fires-bffef9fe3fb7)
 - [Satellite Imagery Analysis with Python](https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32?_referrer=twitter)
 - [Advanced Jupyter Notebooks: A Tutorial](https://towardsdatascience.com/advanced-jupyter-notebooks-a-tutorial-3569d8153057)

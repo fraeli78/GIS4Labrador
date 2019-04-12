@@ -78,16 +78,16 @@ user_groups = ["Researchers", "Visitors"]
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[social]]
-   icon = "cv"
-   icon_pack = "ai"
-   link = "files/CV_Raeli.pdf"
+# [[social]]
+#    icon = "cv"
+#    icon_pack = "ai"
+#    link = "files/CV_Raeli.pdf"
 
 +++
 <br/>
-Over the past 10 years, I had extensive experience in managing nautical/urban cartographic data by GIS.
-I had the pleasure of working for public and private companies as well as a one-year bracket in university research.
+Over the past 10 years, I have had extensive experience in managing nautical/urban cartographic data by GIS.
+I have had the pleasure of working for public and private companies as well as spending a one-year period in university research.
 
-As modern technology is my passion, I’ve continued to work on projects centered around GIS, WebGIS, Database handling, and Python. Just to name a few.
+As modern technology is my passion, I have continued to work on projects centered around GIS, WebGIS, Database handling, and Python. Just to name a few.
 
-I'm happily married and I live in Pontedera, Italy. I love nature, travelling, and, walking with my labrador in the parks.
+I am happily married and I live in Pontedera, Italy. I love nature, travelling, and, walking with my labrador in the parks.

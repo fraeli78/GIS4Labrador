@@ -41,7 +41,7 @@ categories = []
   preview_only = false
 +++
 
-##  **_[PostGIS](https://www.python.org/)_** _is a spatial database extender for [PostgreSQL](https://www.postgresql.org/) object-relational database. It adds support for geographic objects allowing location queries to be run in SQL..._
+##  **_[PostGIS](https://postgis.net/)_** _is a spatial database extender for [PostgreSQL](https://www.postgresql.org/) object-relational database. It adds support for geographic objects allowing location queries to be run in SQL..._
 
 ### Introduction
 
@@ -66,7 +66,7 @@ categories = []
   - [Data Management in an Enterprise Geodatabase](https://www.e-education.psu.edu/spatialdb/l7.html)
   - [Versioned Editing](https://www.e-education.psu.edu/spatialdb/l8.html)
 
-- #### PostgreSQL & PostGIS [Cheatsheet](https://gist.github.com/clhenrick/ebc8dc779fb6f5ee6a88#postgis-1)
+- #### PostgreSQL & PostGIS [cheat sheets](https://gist.github.com/clhenrick/ebc8dc779fb6f5ee6a88#postgis-1)
 
 - #### OSGEO - Advanced [Functions](http://revenant.ca/www/postgis/workshop/advanced.html)
 

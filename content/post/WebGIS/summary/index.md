@@ -81,10 +81,10 @@ categories = []
 - #### uMap
   - [Create maps with OpenStreetMap](http://umap.openstreetmap.fr/en/)
 
-- ### uMap in Italian
+<!-- - ### uMap in Italian
   - [Cosa è uMap](http://de.straba.us/2015/05/22/tutorial-creare-una-mappa-online-con-fotografie-in-umap-aggiornabile-con-ethercalc/)
   - [Step by step](https://sites.google.com/view/lucascalzullo/tutorial/umap)
-  - [Tematizzare i poligoni](http://tansignari.opendatasicilia.it/it/latest/ricette/mappe/umap/uMap.html)
+  - [Tematizzare i poligoni](http://tansignari.opendatasicilia.it/it/latest/ricette/mappe/umap/uMap.html) -->
 
 - #### ScribbleMap
   - [The Easiest way to draw and share maps!](https://www.scribblemaps.com/)

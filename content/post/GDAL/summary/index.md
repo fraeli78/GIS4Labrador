@@ -49,7 +49,6 @@ categories = []
 
 - GDAL/OGR [Quickstart](https://live.osgeo.org/en/quickstart/gdal_quickstart.html)
 - Welcome to the Python GDAL/OGR [Cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/index.html)
-- [Topojson](https://github.com/topojson/topojson/wiki)
 
 
 ### Tools

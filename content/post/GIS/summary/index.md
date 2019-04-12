@@ -44,11 +44,6 @@ categories = []
 
 ## _A geographic information system (GIS) is a framework for gathering, managing, and analyzing data - [ESRI](https://www.esri.com/en-us/what-is-gis/overview)._
 
-### Introduction
-
-  - [What is GIS?](https://www.ordnancesurvey.co.uk/support/understanding-gis/what-is-gis.html)
-  - [What is GIS data?](https://www.ordnancesurvey.co.uk/support/understanding-gis/what-is-gis-data.html)
-  - [Working with GIS data](https://www.ordnancesurvey.co.uk/support/understanding-gis/using-gis-data.html)
 
 ### Tutorials
 - #### Open Source Geospatial Foundation Live - [OSGeoLive](https://live.osgeo.org/en/index.html)
@@ -92,7 +87,7 @@ categories = []
   - [spatialite](https://www.gaia-gis.it/fossil/libspatialite/wiki?name=tesselations-4.0)
 
 ### EPSG - European Petroleum Survey Group
-- [OGC](http://www.opengeospatial.org/docs/is)
+- [Spatial Reference list](http://spatialreference.org/ref/epsg/)
 
 ### Medium
 - [GIS - articles](https://medium.com/tag/gis/archive)
