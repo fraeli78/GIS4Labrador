@@ -6,6 +6,8 @@ draft = false
 toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
+
+
 # Add menu entry to sidebar.
 linktitle = "GIS4labrador Page"
 [menu.tutorial]
@@ -41,7 +43,7 @@ It will be very useful in daily activities for various reasons such as:
  - Publish your site for free.
  - To store your projects.
 
-You can find useful tutorials [here](http://localhost:1313/post/git_github/summary/).
+You can find useful tutorials [here](https://filippomariaraeli.com/post/git_github/summary/).
 
 
 ### <center>OSGeo & ESRI</center>
@@ -50,42 +52,42 @@ Learn GIS using the **[OSGeoLive](https://live.osgeo.org/en/index.html)** (Open 
  - OSGeoLive is a wonderful opportunity to learn about the Open Source world in its entirety.
  - ESRI - through MOOCs you will be able to obtain licenses to use the platform and obtain a certificate at the end of the course.
 
-The most comprehensive and **free sources** can be found [here](http://localhost:1313/post/gis/summary/).
+The most comprehensive and **free sources** can be found [here](https://filippomariaraeli.com/post/gis/summary/).
 
 ### <center>PostGIS</center>
 
-It's incredibly powerful and you can solve the most complex tasks. You can find a great overview [here](http://localhost:1313/post/postgis/summary/).
+It's incredibly powerful and you can solve the most complex tasks. You can find a great overview [here](https://filippomariaraeli.com/post/postgis/summary/).
 
 ### <center>GDAL</center>
 
-It's a great library to convert geospatial data. You can find useful tutorials [here](http://localhost:1313/post/gdal/summary/).
+It's a great library to convert geospatial data. You can find useful tutorials [here](https://filippomariaraeli.com/post/gdal/summary/).
 
 ### <center>WebGIS</center>
-Need a quick review on [HTML](https://www.w3.org/html/), [CSS](https://www.w3.org/Style/CSS/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [PHP](https://www.php.net/)? You can find them [here](http://localhost:1313/post/web_development/summary/).
+Need a quick review on [HTML](https://www.w3.org/html/), [CSS](https://www.w3.org/Style/CSS/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [PHP](https://www.php.net/)? You can find them [here](https://filippomariaraeli.com/post/web_development/summary/).
 
 The ability to manage WebGIS is undoubtedly the most requested capability as it allows you to share your work with the rest of the world.
-You can find a great overview [here](http://localhost:1313/post/webgis/summary/).
+You can find a great overview [here](https://filippomariaraeli.com/post/webgis/summary/).
 
-I suggest you learn [Leaflet](https://leafletjs.com/) as it is quite simple and there are a lot of documentations for different scenarios.
-The most comprehensive and free sources can be found [here](http://localhost:1313/post/leaflet/summary/).
+I suggest you learn [Leaflet](httpss://leafletjs.com/) as it is quite simple and there are a lot of documentations for different scenarios.
+The most comprehensive and free sources can be found [here](https://filippomariaraeli.com/post/leaflet/summary/).
 
 ### <center>Python</center>
 There are excellent courses that will allow you to learn step by step.
-You can find a great overview [here](http://localhost:1313/post/python/summary/).
+You can find a great overview [here](https://filippomariaraeli.com/post/python/summary/).
 
 
 ### <center>Open Data</center>
 More and more public bodies are sharing their data online. Often you will have to clean up the data to use them properly in a GIS. I have created a list of the main sites where you can download data for free.
-You can find them [here](http://localhost:1313/post/opendata/).
+You can find them [here](https://filippomariaraeli.com/post/opendata/).
 
 
 ### <center>License</center>
 Last but not least. Whenever you look for a source on the internet it will be useful to know if it is usable or not.
-Guides can be found [here](http://localhost:1313/post/licences/summary/).
+Guides can be found [here](https://filippomariaraeli.com/post/licences/summary/).
 
 
 ###  <center>Final Notes</center>
 
-- I recommend you create a [Twitter](https://twitter.com/), [Facebook](https://www.facebook.com) and [Linkedin](https://linkedin.com/) account to follow the best profiles on GIS. I recommend you visit a blog [list](http://localhost:1313/post/blog/summary/) containing the most important news on GIS.
+- I recommend you create a [Twitter](https://twitter.com/), [Facebook](https://www.facebook.com) and [Linkedin](https://linkedin.com/) account to follow the best profiles on GIS. I recommend you visit a blog [list](https://filippomariaraeli.com/post/blog/summary/) containing the most important news on GIS.
 - I recommend you sign up to [Medium](https://medium.com/) and [ScienceDirect](https://www.sciencedirect.com/) to receive the best personalized recommendations as per your profile every day.
 - I recommend you create a [Stack Overflow](https://stackoverflow.com/) account. Here you can ask and find a ton of useful tips.
